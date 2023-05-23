@@ -18,7 +18,7 @@ const mainVersions = mainPage(LINK_QUERY)
 const versions = {};
 const promises = mainVersions.map(version => traverse(version.url, version.name, versions));
 await Promise.all(promises);
-writeFile('docs/json/output.json', JSON.stringify(versions, null, 4), console.error);
+writeFile('docs/json/output.json', JSON.stringify(versions, Object.keys(versions).sort(), 2), console.error);
 
 async function traverse(url, versionString, output) {
     const folderStr = await (await fetch(url)).text();
