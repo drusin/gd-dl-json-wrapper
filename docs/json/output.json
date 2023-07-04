@@ -5498,5 +5498,31 @@
     "https://downloads.tuxfamily.org/godotengine/4.1/rc2/mono/Godot_v4.1-rc2_mono_win64.zip",
     "https://downloads.tuxfamily.org/godotengine/4.1/rc2/mono/README.txt",
     "https://downloads.tuxfamily.org/godotengine/4.1/rc2/mono/SHA512-SUMS.txt"
+  ],
+  "4.1-rc3": [
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/Godot_v4.1-rc3_android_editor.aab",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/Godot_v4.1-rc3_android_editor.apk",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/Godot_v4.1-rc3_export_templates.tpz",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/Godot_v4.1-rc3_linux.x86_32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/Godot_v4.1-rc3_linux.x86_64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/Godot_v4.1-rc3_macos.universal.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/Godot_v4.1-rc3_web_editor.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/Godot_v4.1-rc3_win32.exe.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/Godot_v4.1-rc3_win64.exe.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/README.txt",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/SHA512-SUMS.txt",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/godot-4.1-rc3.tar.xz",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/godot-4.1-rc3.tar.xz.sha256",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/godot-lib.4.1.rc3.template_release.aar"
+  ],
+  "4.1-rc3-mono": [
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/mono/Godot_v4.1-rc3_mono_export_templates.tpz",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/mono/Godot_v4.1-rc3_mono_linux_x86_32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/mono/Godot_v4.1-rc3_mono_linux_x86_64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/mono/Godot_v4.1-rc3_mono_macos.universal.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/mono/Godot_v4.1-rc3_mono_win32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/mono/Godot_v4.1-rc3_mono_win64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/mono/README.txt",
+    "https://downloads.tuxfamily.org/godotengine/4.1/rc3/mono/SHA512-SUMS.txt"
   ]
 }
