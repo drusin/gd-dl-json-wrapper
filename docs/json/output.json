@@ -5267,6 +5267,23 @@
     "https://downloads.tuxfamily.org/godotengine/4.0.3/rc2/mono/README.txt",
     "https://downloads.tuxfamily.org/godotengine/4.0.3/rc2/mono/SHA512-SUMS.txt"
   ],
+  "4.1": [
+    "https://downloads.tuxfamily.org/godotengine/4.1/Godot_v4.1-stable_android_editor.aab",
+    "https://downloads.tuxfamily.org/godotengine/4.1/Godot_v4.1-stable_android_editor.apk",
+    "https://downloads.tuxfamily.org/godotengine/4.1/Godot_v4.1-stable_changelog_authors.txt",
+    "https://downloads.tuxfamily.org/godotengine/4.1/Godot_v4.1-stable_changelog_chrono.txt",
+    "https://downloads.tuxfamily.org/godotengine/4.1/Godot_v4.1-stable_export_templates.tpz",
+    "https://downloads.tuxfamily.org/godotengine/4.1/Godot_v4.1-stable_linux.x86_32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/Godot_v4.1-stable_linux.x86_64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/Godot_v4.1-stable_macos.universal.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/Godot_v4.1-stable_web_editor.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/Godot_v4.1-stable_win32.exe.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/Godot_v4.1-stable_win64.exe.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/SHA512-SUMS.txt",
+    "https://downloads.tuxfamily.org/godotengine/4.1/godot-4.1-stable.tar.xz",
+    "https://downloads.tuxfamily.org/godotengine/4.1/godot-4.1-stable.tar.xz.sha256",
+    "https://downloads.tuxfamily.org/godotengine/4.1/godot-lib.4.1.stable.template_release.aar"
+  ],
   "4.1-beta1": [
     "https://downloads.tuxfamily.org/godotengine/4.1/beta1/Godot_v4.1-beta1_android_editor.aab",
     "https://downloads.tuxfamily.org/godotengine/4.1/beta1/Godot_v4.1-beta1_android_editor.apk",
@@ -5446,6 +5463,17 @@
     "https://downloads.tuxfamily.org/godotengine/4.1/dev4/mono/Godot_v4.1-dev4_mono_win64.zip",
     "https://downloads.tuxfamily.org/godotengine/4.1/dev4/mono/README.txt",
     "https://downloads.tuxfamily.org/godotengine/4.1/dev4/mono/SHA512-SUMS.txt"
+  ],
+  "4.1-mono": [
+    "https://downloads.tuxfamily.org/godotengine/4.1/mono/Godot_v4.1-stable_changelog_authors.txt",
+    "https://downloads.tuxfamily.org/godotengine/4.1/mono/Godot_v4.1-stable_changelog_chrono.txt",
+    "https://downloads.tuxfamily.org/godotengine/4.1/mono/Godot_v4.1-stable_mono_export_templates.tpz",
+    "https://downloads.tuxfamily.org/godotengine/4.1/mono/Godot_v4.1-stable_mono_linux_x86_32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/mono/Godot_v4.1-stable_mono_linux_x86_64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/mono/Godot_v4.1-stable_mono_macos.universal.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/mono/Godot_v4.1-stable_mono_win32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/mono/Godot_v4.1-stable_mono_win64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1/mono/SHA512-SUMS.txt"
   ],
   "4.1-rc1": [
     "https://downloads.tuxfamily.org/godotengine/4.1/rc1/Godot_v4.1-rc1_android_editor.aab",
