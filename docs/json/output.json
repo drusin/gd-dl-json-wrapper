@@ -5552,5 +5552,79 @@
     "https://downloads.tuxfamily.org/godotengine/4.1/rc3/mono/Godot_v4.1-rc3_mono_win64.zip",
     "https://downloads.tuxfamily.org/godotengine/4.1/rc3/mono/README.txt",
     "https://downloads.tuxfamily.org/godotengine/4.1/rc3/mono/SHA512-SUMS.txt"
+  ],
+  "4.1.1": [
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/Godot_v4.1.1-stable_android_editor.aab",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/Godot_v4.1.1-stable_android_editor.apk",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/Godot_v4.1.1-stable_export_templates.tpz",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/Godot_v4.1.1-stable_linux.x86_32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/Godot_v4.1.1-stable_linux.x86_64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/Godot_v4.1.1-stable_macos.universal.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/Godot_v4.1.1-stable_web_editor.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/Godot_v4.1.1-stable_win32.exe.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/Godot_v4.1.1-stable_win64.exe.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/SHA512-SUMS.txt",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/godot-4.1.1-stable.tar.xz",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/godot-4.1.1-stable.tar.xz.sha256",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/godot-lib.4.1.1.stable.template_release.aar"
+  ],
+  "4.1.1-mono": [
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/mono/Godot_v4.1.1-stable_mono_export_templates.tpz",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/mono/Godot_v4.1.1-stable_mono_linux_x86_32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/mono/Godot_v4.1.1-stable_mono_linux_x86_64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/mono/Godot_v4.1.1-stable_mono_macos.universal.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/mono/Godot_v4.1.1-stable_mono_win32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/mono/Godot_v4.1.1-stable_mono_win64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/mono/SHA512-SUMS.txt"
+  ],
+  "4.1.1-rc1": [
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/Godot_v4.1.1-rc1_android_editor.aab",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/Godot_v4.1.1-rc1_android_editor.apk",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/Godot_v4.1.1-rc1_export_templates.tpz",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/Godot_v4.1.1-rc1_linux.x86_32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/Godot_v4.1.1-rc1_linux.x86_64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/Godot_v4.1.1-rc1_macos.universal.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/Godot_v4.1.1-rc1_web_editor.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/Godot_v4.1.1-rc1_win32.exe.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/Godot_v4.1.1-rc1_win64.exe.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/README.txt",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/SHA512-SUMS.txt",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/godot-4.1.1-rc1.tar.xz",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/godot-4.1.1-rc1.tar.xz.sha256",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/godot-lib.4.1.1.rc1.template_release.aar"
+  ],
+  "4.1.1-rc1-mono": [
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/mono/Godot_v4.1.1-rc1_mono_export_templates.tpz",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/mono/Godot_v4.1.1-rc1_mono_linux_x86_32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/mono/Godot_v4.1.1-rc1_mono_linux_x86_64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/mono/Godot_v4.1.1-rc1_mono_macos.universal.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/mono/Godot_v4.1.1-rc1_mono_win32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/mono/Godot_v4.1.1-rc1_mono_win64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.1.1/rc1/mono/SHA512-SUMS.txt"
+  ],
+  "4.2-dev1": [
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/Godot_v4.2-dev1_android_editor.aab",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/Godot_v4.2-dev1_android_editor.apk",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/Godot_v4.2-dev1_export_templates.tpz",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/Godot_v4.2-dev1_linux.x86_32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/Godot_v4.2-dev1_linux.x86_64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/Godot_v4.2-dev1_macos.universal.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/Godot_v4.2-dev1_web_editor.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/Godot_v4.2-dev1_win32.exe.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/Godot_v4.2-dev1_win64.exe.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/README.txt",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/SHA512-SUMS.txt",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/godot-4.2-dev1.tar.xz",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/godot-4.2-dev1.tar.xz.sha256",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/godot-lib.4.2.dev1.template_release.aar"
+  ],
+  "4.2-dev1-mono": [
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/mono/Godot_v4.2-dev1_mono_export_templates.tpz",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/mono/Godot_v4.2-dev1_mono_linux_x86_32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/mono/Godot_v4.2-dev1_mono_linux_x86_64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/mono/Godot_v4.2-dev1_mono_macos.universal.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/mono/Godot_v4.2-dev1_mono_win32.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/mono/Godot_v4.2-dev1_mono_win64.zip",
+    "https://downloads.tuxfamily.org/godotengine/4.2/dev1/mono/SHA512-SUMS.txt"
   ]
 }
