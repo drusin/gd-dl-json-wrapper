@@ -22,17 +22,12 @@ const versions = {};
 const promises = mainVersions.map(version => traverse(version.url, version.name, versions));
 await Promise.all(promises);
 
-const allVersionNames = Object.keys(versions).sort();
-const mainJson = allVersionNames
+const mainJson = Object.keys(versions)
+        .sort()
         .map(name => ({ [name]: `https://drusin.github.io/gd-dl-json-wrapper/json/${name}.json` }));
-const versionJsons = Object.keys(versions)
-        .map(name => ({
-                name: name,
-                content: versions[name]
-            }));
-
 writeFile('docs/json/main.json', JSON.stringify(mainJson, undefined, 2), console.error);
-for (const version of versionJsons) {
+
+for (const version of Object.values(versions)) {
     writeFile(`docs/json/${version.name}.json`, JSON.stringify(version.content, undefined, 2), console.error);
 }
 
@@ -49,12 +44,16 @@ async function traverse(url, versionString, output) {
                 type: line.children[3].children[0].data
             }))
             .filter(line => line.name !== 'Parent Directory' && line.name !== 'fixup');
+    
     const goingDeeper = allLines.filter(line => line.url.endsWith('/'))
             .map(line => traverse(line.url, `${versionString}-${line.name}`, output));
     await Promise.all(goingDeeper);
-    const urls = allLines
-            .filter(line => !line.url.endsWith('/'))
-    if (urls.length > 0) {
-        output[versionString] = urls;
+    
+    const downloadLines = allLines.filter(line => !line.url.endsWith('/'))
+    if (downloadLines.length > 0) {
+        output[versionString] = {
+            name: versionString,
+            content: downloadLines
+        };
     }
 }
