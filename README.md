@@ -1,5 +1,5 @@
 # gd-dl-json-wrapper
-A small node script that crowls through the [Godot download repository](https://downloads.tuxfamily.org/godotengine/) and generates a JSON filefor every version with name, download url and other metadata, plus a `main.json` as a dictionairy for all available versions.
+A small node script that crowls through the [Godot download repository](https://downloads.tuxfamily.org/godotengine/) and generates a JSON file for every version containing name, download url and other metadata, plus a `main.json` as a dictionairy for all available versions.
 
 Structure of the `main.json`:
 ```JSON
@@ -29,7 +29,7 @@ Structure of a version file:
 
 The version names are created by naively putting together the names of the "subfolders" which are traversed, so you end up with things like `4.0-pre-alpha-4.0-dev.20210820` but that's good enough for me right now.
 
-## Whe to find the generated files
+## Where to find the generated files
 The generated json files are hosted on github.io: https://drusin.github.io/gd-dl-json-wrapper/json/main.json  
 They are regenerated twice per day via Github actions.
 
