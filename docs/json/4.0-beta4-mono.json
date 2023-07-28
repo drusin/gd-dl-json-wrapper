@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v4.0-beta4_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta4/mono/Godot_v4.0-beta4_mono_export_templates.tpz",
+    "lastModified": "2022-Nov-01 11:51:32",
+    "size": "278.0M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.0-beta4_mono_linux_x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta4/mono/Godot_v4.0-beta4_mono_linux_x86_32.zip",
+    "lastModified": "2022-Nov-01 11:49:36",
+    "size": "52.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta4_mono_linux_x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta4/mono/Godot_v4.0-beta4_mono_linux_x86_64.zip",
+    "lastModified": "2022-Nov-01 11:49:24",
+    "size": "59.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta4_mono_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta4/mono/Godot_v4.0-beta4_mono_macos.universal.zip",
+    "lastModified": "2022-Nov-01 11:50:27",
+    "size": "109.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta4_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta4/mono/Godot_v4.0-beta4_mono_win32.zip",
+    "lastModified": "2022-Nov-01 11:50:03",
+    "size": "54.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta4_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta4/mono/Godot_v4.0-beta4_mono_win64.zip",
+    "lastModified": "2022-Nov-01 11:49:50",
+    "size": "59.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta4/mono/README.txt",
+    "lastModified": "2022-Nov-01 11:51:32",
+    "size": "0.7K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta4/mono/SHA512-SUMS.txt",
+    "lastModified": "2022-Nov-01 11:51:32",
+    "size": "0.9K",
+    "type": "text/plain"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v4.1-beta2_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1/beta2/mono/Godot_v4.1-beta2_mono_export_templates.tpz",
+    "lastModified": "2023-Jun-14 16:09:36",
+    "size": "297.9M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.1-beta2_mono_linux_x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1/beta2/mono/Godot_v4.1-beta2_mono_linux_x86_32.zip",
+    "lastModified": "2023-Jun-14 16:06:04",
+    "size": "52.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.1-beta2_mono_linux_x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1/beta2/mono/Godot_v4.1-beta2_mono_linux_x86_64.zip",
+    "lastModified": "2023-Jun-14 16:05:52",
+    "size": "59.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.1-beta2_mono_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1/beta2/mono/Godot_v4.1-beta2_mono_macos.universal.zip",
+    "lastModified": "2023-Jun-14 16:07:33",
+    "size": "106.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.1-beta2_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1/beta2/mono/Godot_v4.1-beta2_mono_win32.zip",
+    "lastModified": "2023-Jun-14 16:06:42",
+    "size": "54.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.1-beta2_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1/beta2/mono/Godot_v4.1-beta2_mono_win64.zip",
+    "lastModified": "2023-Jun-14 16:06:18",
+    "size": "59.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1/beta2/mono/README.txt",
+    "lastModified": "2023-Jun-14 16:09:36",
+    "size": "0.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1/beta2/mono/SHA512-SUMS.txt",
+    "lastModified": "2023-Jun-14 16:09:36",
+    "size": "0.9K",
+    "type": "text/plain"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Godot_v4.0.2-stable_changelog_authors.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.2/mono/Godot_v4.0.2-stable_changelog_authors.txt",
+    "lastModified": "2023-Apr-04 10:52:37",
+    "size": "7.1K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v4.0.2-stable_changelog_chrono.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.2/mono/Godot_v4.0.2-stable_changelog_chrono.txt",
+    "lastModified": "2023-Apr-04 10:52:37",
+    "size": "8.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v4.0.2-stable_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.2/mono/Godot_v4.0.2-stable_mono_export_templates.tpz",
+    "lastModified": "2023-Apr-04 10:53:37",
+    "size": "290.7M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.0.2-stable_mono_linux_x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.2/mono/Godot_v4.0.2-stable_mono_linux_x86_32.zip",
+    "lastModified": "2023-Apr-04 10:50:35",
+    "size": "50.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0.2-stable_mono_linux_x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.2/mono/Godot_v4.0.2-stable_mono_linux_x86_64.zip",
+    "lastModified": "2023-Apr-04 10:50:23",
+    "size": "57.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0.2-stable_mono_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.2/mono/Godot_v4.0.2-stable_mono_macos.universal.zip",
+    "lastModified": "2023-Apr-04 10:51:41",
+    "size": "104.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0.2-stable_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.2/mono/Godot_v4.0.2-stable_mono_win32.zip",
+    "lastModified": "2023-Apr-04 10:51:01",
+    "size": "53.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0.2-stable_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.2/mono/Godot_v4.0.2-stable_mono_win64.zip",
+    "lastModified": "2023-Apr-04 10:50:49",
+    "size": "57.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.2/mono/SHA512-SUMS.txt",
+    "lastModified": "2023-Apr-04 10:53:37",
+    "size": "1.0K",
+    "type": "text/plain"
+  }
+]

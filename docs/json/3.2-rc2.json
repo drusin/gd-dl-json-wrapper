@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Godot_v3.2-rc2_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc2/Godot_v3.2-rc2_export_templates.tpz",
+    "lastModified": "2020-Jan-20 08:48:03",
+    "size": "434.0M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.2-rc2_linux_headless.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc2/Godot_v3.2-rc2_linux_headless.64.zip",
+    "lastModified": "2020-Jan-20 08:43:45",
+    "size": "26.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-rc2_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc2/Godot_v3.2-rc2_linux_server.64.zip",
+    "lastModified": "2020-Jan-20 08:43:51",
+    "size": "12.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-rc2_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc2/Godot_v3.2-rc2_osx.64.zip",
+    "lastModified": "2020-Jan-20 08:43:30",
+    "size": "29.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-rc2_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc2/Godot_v3.2-rc2_win32.exe.zip",
+    "lastModified": "2020-Jan-20 08:43:14",
+    "size": "27.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-rc2_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc2/Godot_v3.2-rc2_win64.exe.zip",
+    "lastModified": "2020-Jan-20 08:42:59",
+    "size": "26.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-rc2_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc2/Godot_v3.2-rc2_x11.32.zip",
+    "lastModified": "2020-Jan-20 08:42:44",
+    "size": "27.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-rc2_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc2/Godot_v3.2-rc2_x11.64.zip",
+    "lastModified": "2020-Jan-20 08:42:29",
+    "size": "28.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc2/README.txt",
+    "lastModified": "2020-Jan-20 08:48:03",
+    "size": "0.4K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-3.2-rc2.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc2/godot-3.2-rc2.tar.xz",
+    "lastModified": "2020-Jan-20 08:42:13",
+    "size": "13.3M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-3.2-rc2.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc2/godot-3.2-rc2.tar.xz.sha256",
+    "lastModified": "2020-Jan-20 08:42:13",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  }
+]

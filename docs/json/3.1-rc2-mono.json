@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Godot_v3.1-rc2_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/rc2/mono/Godot_v3.1-rc2_mono_export_templates.tpz",
+    "lastModified": "2019-Mar-11 00:14:12",
+    "size": "187.0M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.1-rc2_mono_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/rc2/mono/Godot_v3.1-rc2_mono_osx.64.zip",
+    "lastModified": "2019-Mar-11 00:12:05",
+    "size": "49.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-rc2_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/rc2/mono/Godot_v3.1-rc2_mono_win32.zip",
+    "lastModified": "2019-Mar-11 00:11:30",
+    "size": "45.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-rc2_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/rc2/mono/Godot_v3.1-rc2_mono_win64.zip",
+    "lastModified": "2019-Mar-11 00:10:58",
+    "size": "45.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-rc2_mono_x11_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/rc2/mono/Godot_v3.1-rc2_mono_x11_32.zip",
+    "lastModified": "2019-Mar-11 00:09:40",
+    "size": "59.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-rc2_mono_x11_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/rc2/mono/Godot_v3.1-rc2_mono_x11_64.zip",
+    "lastModified": "2019-Mar-11 00:10:26",
+    "size": "58.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/rc2/mono/README.txt",
+    "lastModified": "2019-Mar-11 00:14:12",
+    "size": "0.3K",
+    "type": "text/plain"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Godot_v4.0-dev.20210811_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/pre-alpha/4.0-dev.20210811/Godot_v4.0-dev.20210811_export_templates.tpz",
+    "lastModified": "2021-Aug-12 09:08:21",
+    "size": "566.8M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.0-dev.20210811_linux.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/pre-alpha/4.0-dev.20210811/Godot_v4.0-dev.20210811_linux.32.zip",
+    "lastModified": "2021-Aug-12 09:00:25",
+    "size": "49.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-dev.20210811_linux.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/pre-alpha/4.0-dev.20210811/Godot_v4.0-dev.20210811_linux.64.zip",
+    "lastModified": "2021-Aug-12 08:59:56",
+    "size": "55.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-dev.20210811_osx.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/pre-alpha/4.0-dev.20210811/Godot_v4.0-dev.20210811_osx.universal.zip",
+    "lastModified": "2021-Aug-12 09:02:23",
+    "size": "110.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-dev.20210811_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/pre-alpha/4.0-dev.20210811/Godot_v4.0-dev.20210811_win32.exe.zip",
+    "lastModified": "2021-Aug-12 09:01:22",
+    "size": "48.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-dev.20210811_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/pre-alpha/4.0-dev.20210811/Godot_v4.0-dev.20210811_win64.exe.zip",
+    "lastModified": "2021-Aug-12 09:00:55",
+    "size": "54.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/pre-alpha/4.0-dev.20210811/README.txt",
+    "lastModified": "2021-Aug-12 09:08:21",
+    "size": "0.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/pre-alpha/4.0-dev.20210811/SHA512-SUMS.txt",
+    "lastModified": "2021-Aug-12 09:08:21",
+    "size": "1.4K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-4.0-dev.20210811.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/pre-alpha/4.0-dev.20210811/godot-4.0-dev.20210811.tar.xz",
+    "lastModified": "2021-Aug-12 08:59:25",
+    "size": "26.9M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-4.0-dev.20210811.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/pre-alpha/4.0-dev.20210811/godot-4.0-dev.20210811.tar.xz.sha256",
+    "lastModified": "2021-Aug-12 08:59:26",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.4.0.dev.20210811.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/pre-alpha/4.0-dev.20210811/godot-lib.4.0.dev.20210811.release.aar",
+    "lastModified": "2021-Aug-12 09:02:52",
+    "size": "51.9M",
+    "type": "application/octet-stream"
+  }
+]

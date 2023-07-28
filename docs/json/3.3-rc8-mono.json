@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Godot_v3.3-rc8_changelog_authors.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/rc8/mono/Godot_v3.3-rc8_changelog_authors.txt",
+    "lastModified": "2021-Apr-14 18:34:06",
+    "size": "81.6K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.3-rc8_changelog_chrono.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/rc8/mono/Godot_v3.3-rc8_changelog_chrono.txt",
+    "lastModified": "2021-Apr-14 18:34:06",
+    "size": "107.6K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.3-rc8_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/rc8/mono/Godot_v3.3-rc8_mono_export_templates.tpz",
+    "lastModified": "2021-Apr-07 08:57:24",
+    "size": "564.6M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.3-rc8_mono_linux_headless_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/rc8/mono/Godot_v3.3-rc8_mono_linux_headless_64.zip",
+    "lastModified": "2021-Apr-07 08:51:13",
+    "size": "70.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.3-rc8_mono_linux_server_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/rc8/mono/Godot_v3.3-rc8_mono_linux_server_64.zip",
+    "lastModified": "2021-Apr-07 08:51:24",
+    "size": "20.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.3-rc8_mono_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/rc8/mono/Godot_v3.3-rc8_mono_osx.64.zip",
+    "lastModified": "2021-Apr-07 08:50:32",
+    "size": "68.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.3-rc8_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/rc8/mono/Godot_v3.3-rc8_mono_win32.zip",
+    "lastModified": "2021-Apr-07 08:49:51",
+    "size": "54.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.3-rc8_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/rc8/mono/Godot_v3.3-rc8_mono_win64.zip",
+    "lastModified": "2021-Apr-07 08:49:20",
+    "size": "64.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.3-rc8_mono_x11_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/rc8/mono/Godot_v3.3-rc8_mono_x11_32.zip",
+    "lastModified": "2021-Apr-07 08:48:43",
+    "size": "66.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.3-rc8_mono_x11_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/rc8/mono/Godot_v3.3-rc8_mono_x11_64.zip",
+    "lastModified": "2021-Apr-07 08:48:06",
+    "size": "72.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/rc8/mono/README.txt",
+    "lastModified": "2021-Apr-07 08:57:24",
+    "size": "0.2K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/rc8/mono/SHA512-SUMS.txt",
+    "lastModified": "2021-Apr-07 08:57:24",
+    "size": "1.4K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-lib.3.3.rc8.mono.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/rc8/mono/godot-lib.3.3.rc8.mono.release.aar",
+    "lastModified": "2021-Apr-07 08:51:52",
+    "size": "49.9M",
+    "type": "application/octet-stream"
+  }
+]

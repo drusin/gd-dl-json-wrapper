@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Godot_v3.5.2-rc1_changelog_authors.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/rc1/mono/Godot_v3.5.2-rc1_changelog_authors.txt",
+    "lastModified": "2022-Dec-14 14:46:33",
+    "size": "7.0K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.5.2-rc1_changelog_chrono.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/rc1/mono/Godot_v3.5.2-rc1_changelog_chrono.txt",
+    "lastModified": "2022-Dec-14 14:46:34",
+    "size": "8.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.5.2-rc1_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/rc1/mono/Godot_v3.5.2-rc1_mono_export_templates.tpz",
+    "lastModified": "2022-Dec-14 11:32:03",
+    "size": "629.1M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.5.2-rc1_mono_linux_headless_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/rc1/mono/Godot_v3.5.2-rc1_mono_linux_headless_64.zip",
+    "lastModified": "2022-Dec-14 11:29:22",
+    "size": "66.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5.2-rc1_mono_linux_server_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/rc1/mono/Godot_v3.5.2-rc1_mono_linux_server_64.zip",
+    "lastModified": "2022-Dec-14 11:29:26",
+    "size": "19.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5.2-rc1_mono_osx.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/rc1/mono/Godot_v3.5.2-rc1_mono_osx.universal.zip",
+    "lastModified": "2022-Dec-14 11:29:06",
+    "size": "96.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5.2-rc1_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/rc1/mono/Godot_v3.5.2-rc1_mono_win32.zip",
+    "lastModified": "2022-Dec-14 11:28:45",
+    "size": "58.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5.2-rc1_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/rc1/mono/Godot_v3.5.2-rc1_mono_win64.zip",
+    "lastModified": "2022-Dec-14 11:28:31",
+    "size": "63.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5.2-rc1_mono_x11_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/rc1/mono/Godot_v3.5.2-rc1_mono_x11_32.zip",
+    "lastModified": "2022-Dec-14 11:28:16",
+    "size": "63.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5.2-rc1_mono_x11_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/rc1/mono/Godot_v3.5.2-rc1_mono_x11_64.zip",
+    "lastModified": "2022-Dec-14 11:28:02",
+    "size": "69.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/rc1/mono/README.txt",
+    "lastModified": "2022-Dec-14 11:32:03",
+    "size": "0.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/rc1/mono/SHA512-SUMS.txt",
+    "lastModified": "2022-Dec-14 11:32:03",
+    "size": "1.4K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-lib.3.5.2.rc1.mono.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/rc1/mono/godot-lib.3.5.2.rc1.mono.release.aar",
+    "lastModified": "2022-Dec-14 11:29:40",
+    "size": "57.0M",
+    "type": "application/octet-stream"
+  }
+]

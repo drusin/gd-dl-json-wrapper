@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Godot_v3.4.5-stable_changelog_authors.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/Godot_v3.4.5-stable_changelog_authors.txt",
+    "lastModified": "2022-Aug-02 08:29:17",
+    "size": "7.2K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.4.5-stable_changelog_chrono.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/Godot_v3.4.5-stable_changelog_chrono.txt",
+    "lastModified": "2022-Aug-02 08:29:17",
+    "size": "8.8K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.4.5-stable_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/Godot_v3.4.5-stable_export_templates.tpz",
+    "lastModified": "2022-Aug-02 08:10:34",
+    "size": "509.7M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.4.5-stable_linux_headless.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/Godot_v3.4.5-stable_linux_headless.64.zip",
+    "lastModified": "2022-Aug-02 08:10:53",
+    "size": "35.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4.5-stable_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/Godot_v3.4.5-stable_linux_server.64.zip",
+    "lastModified": "2022-Aug-02 08:11:00",
+    "size": "12.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4.5-stable_osx.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/Godot_v3.4.5-stable_osx.universal.zip",
+    "lastModified": "2022-Aug-02 08:11:39",
+    "size": "70.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4.5-stable_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/Godot_v3.4.5-stable_web_editor.zip",
+    "lastModified": "2022-Aug-02 08:11:48",
+    "size": "16.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4.5-stable_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/Godot_v3.4.5-stable_win32.exe.zip",
+    "lastModified": "2022-Aug-02 08:12:05",
+    "size": "31.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4.5-stable_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/Godot_v3.4.5-stable_win64.exe.zip",
+    "lastModified": "2022-Aug-02 08:12:25",
+    "size": "36.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4.5-stable_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/Godot_v3.4.5-stable_x11.32.zip",
+    "lastModified": "2022-Aug-02 08:12:43",
+    "size": "31.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4.5-stable_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/Godot_v3.4.5-stable_x11.64.zip",
+    "lastModified": "2022-Aug-02 08:13:04",
+    "size": "37.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/SHA512-SUMS.txt",
+    "lastModified": "2022-Aug-02 08:23:11",
+    "size": "1.9K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-3.4.5-stable.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/godot-3.4.5-stable.tar.xz",
+    "lastModified": "2022-Aug-02 08:05:27",
+    "size": "21.5M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-3.4.5-stable.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/godot-3.4.5-stable.tar.xz.sha256",
+    "lastModified": "2022-Aug-02 08:05:28",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.3.4.5.stable.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4.5/godot-lib.3.4.5.stable.release.aar",
+    "lastModified": "2022-Aug-02 08:05:49",
+    "size": "39.1M",
+    "type": "application/octet-stream"
+  }
+]

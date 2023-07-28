@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Godot_v4.0-alpha10_android_editor.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha10/Godot_v4.0-alpha10_android_editor.apk",
+    "lastModified": "2022-Jun-15 14:25:40",
+    "size": "176.7M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "Godot_v4.0-alpha10_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha10/Godot_v4.0-alpha10_export_templates.tpz",
+    "lastModified": "2022-Jun-15 14:31:54",
+    "size": "663.9M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.0-alpha10_linux.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha10/Godot_v4.0-alpha10_linux.32.zip",
+    "lastModified": "2022-Jun-15 14:21:41",
+    "size": "41.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-alpha10_linux.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha10/Godot_v4.0-alpha10_linux.64.zip",
+    "lastModified": "2022-Jun-15 14:21:18",
+    "size": "47.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-alpha10_osx.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha10/Godot_v4.0-alpha10_osx.universal.zip",
+    "lastModified": "2022-Jun-15 14:23:24",
+    "size": "92.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-alpha10_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha10/Godot_v4.0-alpha10_win32.exe.zip",
+    "lastModified": "2022-Jun-15 14:22:32",
+    "size": "42.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-alpha10_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha10/Godot_v4.0-alpha10_win64.exe.zip",
+    "lastModified": "2022-Jun-15 14:22:08",
+    "size": "47.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha10/README.txt",
+    "lastModified": "2022-Jun-15 14:31:54",
+    "size": "0.5K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha10/SHA512-SUMS.txt",
+    "lastModified": "2022-Jun-15 14:31:54",
+    "size": "1.6K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-4.0-alpha10.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha10/godot-4.0-alpha10.tar.xz",
+    "lastModified": "2022-Jun-15 14:20:50",
+    "size": "29.0M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-4.0-alpha10.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha10/godot-4.0-alpha10.tar.xz.sha256",
+    "lastModified": "2022-Jun-15 14:20:50",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.4.0.alpha10.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha10/godot-lib.4.0.alpha10.release.aar",
+    "lastModified": "2022-Jun-15 14:23:59",
+    "size": "64.0M",
+    "type": "application/octet-stream"
+  }
+]

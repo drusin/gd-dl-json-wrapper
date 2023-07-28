@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Godot_v2.1.5-stable_changelog.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.5/Godot_v2.1.5-stable_changelog.txt",
+    "lastModified": "2018-Jul-28 22:23:16",
+    "size": "16.5K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v2.1.5-stable_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.5/Godot_v2.1.5-stable_export_templates.tpz",
+    "lastModified": "2018-Jul-28 22:25:25",
+    "size": "219.2M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v2.1.5-stable_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.5/Godot_v2.1.5-stable_linux_server.64.zip",
+    "lastModified": "2018-Jul-28 22:25:35",
+    "size": "16.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.5-stable_osx.fat.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.5/Godot_v2.1.5-stable_osx.fat.zip",
+    "lastModified": "2018-Jul-28 22:25:57",
+    "size": "37.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.5-stable_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.5/Godot_v2.1.5-stable_win32.exe.zip",
+    "lastModified": "2018-Jul-28 22:26:03",
+    "size": "11.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.5-stable_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.5/Godot_v2.1.5-stable_win64.exe.zip",
+    "lastModified": "2018-Jul-28 22:26:11",
+    "size": "12.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.5-stable_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.5/Godot_v2.1.5-stable_x11.32.zip",
+    "lastModified": "2018-Jul-28 22:26:21",
+    "size": "16.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.5-stable_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.5/Godot_v2.1.5-stable_x11.64.zip",
+    "lastModified": "2018-Jul-28 22:26:31",
+    "size": "16.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "godot-2.1.5-stable.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.5/godot-2.1.5-stable.tar.xz",
+    "lastModified": "2018-Jul-28 22:26:37",
+    "size": "9.8M",
+    "type": "application/x-xz"
+  }
+]

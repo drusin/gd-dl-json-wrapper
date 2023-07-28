@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Godot_v4.0-beta13_android_editor.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta13/Godot_v4.0-beta13_android_editor.apk",
+    "lastModified": "2023-Jan-17 17:34:35",
+    "size": "204.0M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "Godot_v4.0-beta13_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta13/Godot_v4.0-beta13_export_templates.tpz",
+    "lastModified": "2023-Jan-17 17:37:18",
+    "size": "744.8M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.0-beta13_linux.x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta13/Godot_v4.0-beta13_linux.x86_32.zip",
+    "lastModified": "2023-Jan-17 17:32:42",
+    "size": "46.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta13_linux.x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta13/Godot_v4.0-beta13_linux.x86_64.zip",
+    "lastModified": "2023-Jan-17 17:32:32",
+    "size": "53.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta13_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta13/Godot_v4.0-beta13_macos.universal.zip",
+    "lastModified": "2023-Jan-17 17:33:29",
+    "size": "102.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta13_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta13/Godot_v4.0-beta13_web_editor.zip",
+    "lastModified": "2023-Jan-17 17:33:35",
+    "size": "27.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta13_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta13/Godot_v4.0-beta13_win32.exe.zip",
+    "lastModified": "2023-Jan-17 17:33:05",
+    "size": "48.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta13_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta13/Godot_v4.0-beta13_win64.exe.zip",
+    "lastModified": "2023-Jan-17 17:32:54",
+    "size": "53.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta13/README.txt",
+    "lastModified": "2023-Jan-17 17:37:18",
+    "size": "0.7K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta13/SHA512-SUMS.txt",
+    "lastModified": "2023-Jan-17 17:37:18",
+    "size": "1.7K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-4.0-beta13.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta13/godot-4.0-beta13.tar.xz",
+    "lastModified": "2023-Jan-17 17:32:20",
+    "size": "30.0M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-4.0-beta13.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta13/godot-4.0-beta13.tar.xz.sha256",
+    "lastModified": "2023-Jan-17 17:32:20",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.4.0.beta13.template_release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta13/godot-lib.4.0.beta13.template_release.aar",
+    "lastModified": "2023-Jan-17 17:33:50",
+    "size": "70.0M",
+    "type": "application/octet-stream"
+  }
+]

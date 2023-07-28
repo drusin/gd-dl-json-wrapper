@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v4.0-beta11_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta11/mono/Godot_v4.0-beta11_mono_export_templates.tpz",
+    "lastModified": "2023-Jan-10 15:37:39",
+    "size": "287.4M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.0-beta11_mono_linux_x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta11/mono/Godot_v4.0-beta11_mono_linux_x86_32.zip",
+    "lastModified": "2023-Jan-10 15:35:43",
+    "size": "53.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta11_mono_linux_x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta11/mono/Godot_v4.0-beta11_mono_linux_x86_64.zip",
+    "lastModified": "2023-Jan-10 15:35:30",
+    "size": "60.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta11_mono_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta11/mono/Godot_v4.0-beta11_mono_macos.universal.zip",
+    "lastModified": "2023-Jan-10 15:36:35",
+    "size": "110.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta11_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta11/mono/Godot_v4.0-beta11_mono_win32.zip",
+    "lastModified": "2023-Jan-10 15:36:09",
+    "size": "55.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta11_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta11/mono/Godot_v4.0-beta11_mono_win64.zip",
+    "lastModified": "2023-Jan-10 15:35:56",
+    "size": "60.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta11/mono/README.txt",
+    "lastModified": "2023-Jan-10 15:37:40",
+    "size": "0.7K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta11/mono/SHA512-SUMS.txt",
+    "lastModified": "2023-Jan-10 15:37:39",
+    "size": "0.9K",
+    "type": "text/plain"
+  }
+]

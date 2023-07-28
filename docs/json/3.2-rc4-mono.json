@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Godot_v3.2-rc4_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc4/mono/Godot_v3.2-rc4_mono_export_templates.tpz",
+    "lastModified": "2020-Jan-27 08:29:16",
+    "size": "490.0M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.2-rc4_mono_linux_headless_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc4/mono/Godot_v3.2-rc4_mono_linux_headless_64.zip",
+    "lastModified": "2020-Jan-27 08:24:24",
+    "size": "67.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-rc4_mono_linux_server_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc4/mono/Godot_v3.2-rc4_mono_linux_server_64.zip",
+    "lastModified": "2020-Jan-27 08:24:41",
+    "size": "30.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-rc4_mono_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc4/mono/Godot_v3.2-rc4_mono_osx.64.zip",
+    "lastModified": "2020-Jan-27 08:23:47",
+    "size": "56.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-rc4_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc4/mono/Godot_v3.2-rc4_mono_win32.zip",
+    "lastModified": "2020-Jan-27 08:23:14",
+    "size": "52.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-rc4_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc4/mono/Godot_v3.2-rc4_mono_win64.zip",
+    "lastModified": "2020-Jan-27 08:22:42",
+    "size": "52.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-rc4_mono_x11_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc4/mono/Godot_v3.2-rc4_mono_x11_32.zip",
+    "lastModified": "2020-Jan-27 08:22:11",
+    "size": "67.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-rc4_mono_x11_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc4/mono/Godot_v3.2-rc4_mono_x11_64.zip",
+    "lastModified": "2020-Jan-27 08:21:29",
+    "size": "68.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/rc4/mono/README.txt",
+    "lastModified": "2020-Jan-27 08:29:16",
+    "size": "0.4K",
+    "type": "text/plain"
+  }
+]

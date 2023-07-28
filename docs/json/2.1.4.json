@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Godot_v2.1.4-stable_changelog.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.4/Godot_v2.1.4-stable_changelog.txt",
+    "lastModified": "2017-Aug-27 23:34:43",
+    "size": "19.5K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v2.1.4-stable_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.4/Godot_v2.1.4-stable_export_templates.tpz",
+    "lastModified": "2017-Aug-27 23:36:53",
+    "size": "210.6M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v2.1.4-stable_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.4/Godot_v2.1.4-stable_linux_server.64.zip",
+    "lastModified": "2017-Aug-27 23:37:03",
+    "size": "15.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.4-stable_osx.fat.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.4/Godot_v2.1.4-stable_osx.fat.zip",
+    "lastModified": "2017-Aug-27 23:37:23",
+    "size": "35.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.4-stable_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.4/Godot_v2.1.4-stable_win32.exe.zip",
+    "lastModified": "2017-Aug-27 23:37:30",
+    "size": "10.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.4-stable_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.4/Godot_v2.1.4-stable_win64.exe.zip",
+    "lastModified": "2017-Aug-27 23:37:37",
+    "size": "12.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.4-stable_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.4/Godot_v2.1.4-stable_x11.32.zip",
+    "lastModified": "2017-Aug-27 23:37:46",
+    "size": "16.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.4-stable_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.4/Godot_v2.1.4-stable_x11.64.zip",
+    "lastModified": "2017-Aug-27 23:37:56",
+    "size": "16.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "android_debug-no_perms.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.4/android_debug-no_perms.apk",
+    "lastModified": "2018-May-25 15:07:58",
+    "size": "15.8M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "android_release-no_perms.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.4/android_release-no_perms.apk",
+    "lastModified": "2018-May-25 15:08:08",
+    "size": "13.7M",
+    "type": "application/vnd.android.package-archive"
+  }
+]

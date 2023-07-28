@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Godot_v3.5-stable_android_editor.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/Godot_v3.5-stable_android_editor.apk",
+    "lastModified": "2022-Aug-05 10:31:04",
+    "size": "130.6M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "Godot_v3.5-stable_changelog_authors.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/Godot_v3.5-stable_changelog_authors.txt",
+    "lastModified": "2022-Aug-05 11:49:21",
+    "size": "91.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.5-stable_changelog_chrono.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/Godot_v3.5-stable_changelog_chrono.txt",
+    "lastModified": "2022-Aug-05 11:49:22",
+    "size": "119.2K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.5-stable_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/Godot_v3.5-stable_export_templates.tpz",
+    "lastModified": "2022-Aug-05 10:36:26",
+    "size": "549.4M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.5-stable_linux_headless.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/Godot_v3.5-stable_linux_headless.64.zip",
+    "lastModified": "2022-Aug-05 10:36:45",
+    "size": "35.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-stable_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/Godot_v3.5-stable_linux_server.64.zip",
+    "lastModified": "2022-Aug-05 10:36:53",
+    "size": "13.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-stable_osx.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/Godot_v3.5-stable_osx.universal.zip",
+    "lastModified": "2022-Aug-05 10:37:30",
+    "size": "65.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-stable_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/Godot_v3.5-stable_web_editor.zip",
+    "lastModified": "2022-Aug-05 10:37:38",
+    "size": "15.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-stable_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/Godot_v3.5-stable_win32.exe.zip",
+    "lastModified": "2022-Aug-05 10:37:55",
+    "size": "31.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-stable_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/Godot_v3.5-stable_win64.exe.zip",
+    "lastModified": "2022-Aug-05 10:38:15",
+    "size": "36.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-stable_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/Godot_v3.5-stable_x11.32.zip",
+    "lastModified": "2022-Aug-05 10:38:33",
+    "size": "31.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-stable_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/Godot_v3.5-stable_x11.64.zip",
+    "lastModified": "2022-Aug-05 10:38:53",
+    "size": "37.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/SHA512-SUMS.txt",
+    "lastModified": "2022-Aug-05 10:49:22",
+    "size": "2.0K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-3.5-stable.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/godot-3.5-stable.tar.xz",
+    "lastModified": "2022-Aug-05 10:29:25",
+    "size": "22.9M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-3.5-stable.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/godot-3.5-stable.tar.xz.sha256",
+    "lastModified": "2022-Aug-05 10:29:25",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.3.5.stable.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/godot-lib.3.5.stable.release.aar",
+    "lastModified": "2022-Aug-05 10:29:50",
+    "size": "44.3M",
+    "type": "application/octet-stream"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v2.1.2-stable_changelog.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.2/Godot_v2.1.2-stable_changelog.txt",
+    "lastModified": "2017-Jan-21 18:13:22",
+    "size": "7.5K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v2.1.2-stable_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.2/Godot_v2.1.2-stable_export_templates.tpz",
+    "lastModified": "2017-Jan-21 18:15:38",
+    "size": "167.9M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v2.1.2-stable_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.2/Godot_v2.1.2-stable_linux_server.64.zip",
+    "lastModified": "2017-Jan-21 18:13:06",
+    "size": "15.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.2-stable_osx.fat.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.2/Godot_v2.1.2-stable_osx.fat.zip",
+    "lastModified": "2017-Jan-21 18:13:46",
+    "size": "34.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.2-stable_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.2/Godot_v2.1.2-stable_win32.exe.zip",
+    "lastModified": "2017-Jan-21 18:13:12",
+    "size": "10.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.2-stable_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.2/Godot_v2.1.2-stable_win64.exe.zip",
+    "lastModified": "2017-Jan-21 18:12:56",
+    "size": "12.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.2-stable_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.2/Godot_v2.1.2-stable_x11.32.zip",
+    "lastModified": "2017-Jan-21 18:12:49",
+    "size": "15.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.2-stable_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.2/Godot_v2.1.2-stable_x11.64.zip",
+    "lastModified": "2017-Jan-21 18:13:22",
+    "size": "16.0M",
+    "type": "application/zip"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Godot_v4.0-alpha17_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha17/mono/Godot_v4.0-alpha17_mono_export_templates.tpz",
+    "lastModified": "2022-Sep-14 16:02:57",
+    "size": "280.1M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.0-alpha17_mono_linux_x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha17/mono/Godot_v4.0-alpha17_mono_linux_x86_32.zip",
+    "lastModified": "2022-Sep-14 15:58:14",
+    "size": "53.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-alpha17_mono_linux_x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha17/mono/Godot_v4.0-alpha17_mono_linux_x86_64.zip",
+    "lastModified": "2022-Sep-14 15:57:43",
+    "size": "59.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-alpha17_mono_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha17/mono/Godot_v4.0-alpha17_mono_macos.universal.zip",
+    "lastModified": "2022-Sep-14 22:46:38",
+    "size": "108.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-alpha17_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha17/mono/Godot_v4.0-alpha17_mono_win32.zip",
+    "lastModified": "2022-Sep-14 15:59:17",
+    "size": "53.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-alpha17_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha17/mono/Godot_v4.0-alpha17_mono_win64.zip",
+    "lastModified": "2022-Sep-14 15:58:47",
+    "size": "58.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha17/mono/README.txt",
+    "lastModified": "2022-Sep-14 22:51:30",
+    "size": "1.0K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha17/mono/SHA512-SUMS.txt",
+    "lastModified": "2022-Sep-14 22:47:36",
+    "size": "0.9K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-4.0-alpha17.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha17/mono/godot-4.0-alpha17.tar.xz",
+    "lastModified": "2022-Sep-14 22:42:00",
+    "size": "29.6M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-4.0-alpha17.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha17/mono/godot-4.0-alpha17.tar.xz.sha256",
+    "lastModified": "2022-Sep-14 22:42:00",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  }
+]

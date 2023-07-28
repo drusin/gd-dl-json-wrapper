@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Godot_v3.4-beta4_changelog_authors.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/Godot_v3.4-beta4_changelog_authors.txt",
+    "lastModified": "2021-Aug-19 08:46:03",
+    "size": "57.0K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.4-beta4_changelog_chrono.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/Godot_v3.4-beta4_changelog_chrono.txt",
+    "lastModified": "2021-Aug-19 08:46:03",
+    "size": "74.5K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.4-beta4_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/Godot_v3.4-beta4_export_templates.tpz",
+    "lastModified": "2021-Aug-19 08:38:49",
+    "size": "504.4M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.4-beta4_linux_headless.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/Godot_v3.4-beta4_linux_headless.64.zip",
+    "lastModified": "2021-Aug-19 08:33:33",
+    "size": "33.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4-beta4_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/Godot_v3.4-beta4_linux_server.64.zip",
+    "lastModified": "2021-Aug-19 08:33:40",
+    "size": "12.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4-beta4_osx.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/Godot_v3.4-beta4_osx.universal.zip",
+    "lastModified": "2021-Aug-19 08:33:15",
+    "size": "66.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4-beta4_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/Godot_v3.4-beta4_web_editor.zip",
+    "lastModified": "2021-Aug-19 08:33:48",
+    "size": "14.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4-beta4_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/Godot_v3.4-beta4_win32.exe.zip",
+    "lastModified": "2021-Aug-19 08:32:36",
+    "size": "29.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4-beta4_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/Godot_v3.4-beta4_win64.exe.zip",
+    "lastModified": "2021-Aug-19 08:32:20",
+    "size": "35.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4-beta4_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/Godot_v3.4-beta4_x11.32.zip",
+    "lastModified": "2021-Aug-19 08:32:01",
+    "size": "30.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.4-beta4_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/Godot_v3.4-beta4_x11.64.zip",
+    "lastModified": "2021-Aug-19 08:31:44",
+    "size": "36.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/README.txt",
+    "lastModified": "2021-Aug-19 08:38:49",
+    "size": "0.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/SHA512-SUMS.txt",
+    "lastModified": "2021-Aug-19 08:38:49",
+    "size": "1.9K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-3.4-beta4.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/godot-3.4-beta4.tar.xz",
+    "lastModified": "2021-Aug-19 08:31:24",
+    "size": "19.9M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-3.4-beta4.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/godot-3.4-beta4.tar.xz.sha256",
+    "lastModified": "2021-Aug-19 08:31:24",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.3.4.beta4.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.4/beta4/godot-lib.3.4.beta4.release.aar",
+    "lastModified": "2021-Aug-19 08:34:09",
+    "size": "38.6M",
+    "type": "application/octet-stream"
+  }
+]

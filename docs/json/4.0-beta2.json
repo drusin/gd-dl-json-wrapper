@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Godot_v4.0-beta2_android_editor.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/Godot_v4.0-beta2_android_editor.apk",
+    "lastModified": "2022-Sep-29 09:18:12",
+    "size": "198.5M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "Godot_v4.0-beta2_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/Godot_v4.0-beta2_export_templates.tpz",
+    "lastModified": "2022-Sep-29 09:24:51",
+    "size": "713.8M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.0-beta2_linux.x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/Godot_v4.0-beta2_linux.x86_32.zip",
+    "lastModified": "2022-Sep-29 09:13:35",
+    "size": "45.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta2_linux.x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/Godot_v4.0-beta2_linux.x86_64.zip",
+    "lastModified": "2022-Sep-29 09:13:10",
+    "size": "52.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta2_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/Godot_v4.0-beta2_macos.universal.zip",
+    "lastModified": "2022-Sep-29 09:15:29",
+    "size": "101.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta2_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/Godot_v4.0-beta2_web_editor.zip",
+    "lastModified": "2022-Sep-29 09:15:42",
+    "size": "23.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta2_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/Godot_v4.0-beta2_win32.exe.zip",
+    "lastModified": "2022-Sep-29 09:14:31",
+    "size": "46.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta2_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/Godot_v4.0-beta2_win64.exe.zip",
+    "lastModified": "2022-Sep-29 09:14:04",
+    "size": "51.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/README.txt",
+    "lastModified": "2022-Sep-29 09:24:52",
+    "size": "0.7K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/SHA512-SUMS.txt",
+    "lastModified": "2022-Sep-29 09:24:52",
+    "size": "1.7K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-4.0-beta2.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/godot-4.0-beta2.tar.xz",
+    "lastModified": "2022-Sep-29 09:12:39",
+    "size": "29.7M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-4.0-beta2.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/godot-4.0-beta2.tar.xz.sha256",
+    "lastModified": "2022-Sep-29 09:12:39",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.4.0.beta2.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/godot-lib.4.0.beta2.release.aar",
+    "lastModified": "2022-Sep-29 09:16:19",
+    "size": "66.5M",
+    "type": "application/octet-stream"
+  }
+]

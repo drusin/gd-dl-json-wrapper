@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Godot_v3.6-beta1_android_editor.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/Godot_v3.6-beta1_android_editor.apk",
+    "lastModified": "2023-Apr-12 09:36:55",
+    "size": "132.7M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "Godot_v3.6-beta1_changelog_authors.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/Godot_v3.6-beta1_changelog_authors.txt",
+    "lastModified": "2023-Apr-12 09:26:51",
+    "size": "35.4K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.6-beta1_changelog_chrono.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/Godot_v3.6-beta1_changelog_chrono.txt",
+    "lastModified": "2023-Apr-12 09:26:51",
+    "size": "44.7K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.6-beta1_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/Godot_v3.6-beta1_export_templates.tpz",
+    "lastModified": "2023-Apr-12 09:41:14",
+    "size": "548.0M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.6-beta1_linux_headless.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/Godot_v3.6-beta1_linux_headless.64.zip",
+    "lastModified": "2023-Apr-12 09:35:10",
+    "size": "35.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.6-beta1_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/Godot_v3.6-beta1_linux_server.64.zip",
+    "lastModified": "2023-Apr-12 09:35:17",
+    "size": "13.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.6-beta1_osx.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/Godot_v3.6-beta1_osx.universal.zip",
+    "lastModified": "2023-Apr-12 09:34:52",
+    "size": "66.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.6-beta1_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/Godot_v3.6-beta1_web_editor.zip",
+    "lastModified": "2023-Apr-12 09:35:27",
+    "size": "15.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.6-beta1_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/Godot_v3.6-beta1_win32.exe.zip",
+    "lastModified": "2023-Apr-12 09:34:16",
+    "size": "31.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.6-beta1_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/Godot_v3.6-beta1_win64.exe.zip",
+    "lastModified": "2023-Apr-12 09:33:59",
+    "size": "36.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.6-beta1_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/Godot_v3.6-beta1_x11.32.zip",
+    "lastModified": "2023-Apr-12 09:33:40",
+    "size": "32.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.6-beta1_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/Godot_v3.6-beta1_x11.64.zip",
+    "lastModified": "2023-Apr-12 09:33:27",
+    "size": "38.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/README.txt",
+    "lastModified": "2023-Apr-12 09:41:14",
+    "size": "0.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/SHA512-SUMS.txt",
+    "lastModified": "2023-Apr-12 09:41:14",
+    "size": "2.0K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-3.6-beta1.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/godot-3.6-beta1.tar.xz",
+    "lastModified": "2023-Apr-12 09:33:07",
+    "size": "23.0M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-3.6-beta1.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/godot-3.6-beta1.tar.xz.sha256",
+    "lastModified": "2023-Apr-12 09:33:07",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.3.6.beta1.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta1/godot-lib.3.6.beta1.release.aar",
+    "lastModified": "2023-Apr-12 09:35:53",
+    "size": "44.1M",
+    "type": "application/octet-stream"
+  }
+]

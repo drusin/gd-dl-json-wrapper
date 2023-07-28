@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Godot_v3.5.2-stable_android_editor.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/Godot_v3.5.2-stable_android_editor.apk",
+    "lastModified": "2023-Mar-07 09:20:15",
+    "size": "131.9M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "Godot_v3.5.2-stable_changelog_authors.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/Godot_v3.5.2-stable_changelog_authors.txt",
+    "lastModified": "2023-Mar-07 09:17:57",
+    "size": "10.9K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.5.2-stable_changelog_chrono.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/Godot_v3.5.2-stable_changelog_chrono.txt",
+    "lastModified": "2023-Mar-07 09:17:57",
+    "size": "13.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.5.2-stable_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/Godot_v3.5.2-stable_export_templates.tpz",
+    "lastModified": "2023-Mar-07 09:22:21",
+    "size": "548.9M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.5.2-stable_linux_headless.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/Godot_v3.5.2-stable_linux_headless.64.zip",
+    "lastModified": "2023-Mar-07 09:19:28",
+    "size": "35.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5.2-stable_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/Godot_v3.5.2-stable_linux_server.64.zip",
+    "lastModified": "2023-Mar-07 09:19:31",
+    "size": "13.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5.2-stable_osx.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/Godot_v3.5.2-stable_osx.universal.zip",
+    "lastModified": "2023-Mar-07 09:19:20",
+    "size": "66.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5.2-stable_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/Godot_v3.5.2-stable_web_editor.zip",
+    "lastModified": "2023-Mar-07 09:19:35",
+    "size": "15.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5.2-stable_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/Godot_v3.5.2-stable_win32.exe.zip",
+    "lastModified": "2023-Mar-07 09:19:05",
+    "size": "31.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5.2-stable_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/Godot_v3.5.2-stable_win64.exe.zip",
+    "lastModified": "2023-Mar-07 09:18:58",
+    "size": "36.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5.2-stable_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/Godot_v3.5.2-stable_x11.32.zip",
+    "lastModified": "2023-Mar-07 09:18:49",
+    "size": "31.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5.2-stable_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/Godot_v3.5.2-stable_x11.64.zip",
+    "lastModified": "2023-Mar-07 09:18:41",
+    "size": "38.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/SHA512-SUMS.txt",
+    "lastModified": "2023-Mar-07 09:22:21",
+    "size": "2.1K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-3.5.2-stable.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/godot-3.5.2-stable.tar.xz",
+    "lastModified": "2023-Mar-07 09:18:32",
+    "size": "22.9M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-3.5.2-stable.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/godot-3.5.2-stable.tar.xz.sha256",
+    "lastModified": "2023-Mar-07 09:18:33",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.3.5.2.stable.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.2/godot-lib.3.5.2.stable.release.aar",
+    "lastModified": "2023-Mar-07 09:19:45",
+    "size": "44.3M",
+    "type": "application/octet-stream"
+  }
+]

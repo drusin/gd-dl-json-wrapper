@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Godot_v3.2.4-beta2_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/Godot_v3.2.4-beta2_export_templates.tpz",
+    "lastModified": "2020-Nov-18 11:06:17",
+    "size": "377.9M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.2.4-beta2_linux_headless.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/Godot_v3.2.4-beta2_linux_headless.64.zip",
+    "lastModified": "2020-Nov-18 11:02:08",
+    "size": "28.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.4-beta2_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/Godot_v3.2.4-beta2_linux_server.64.zip",
+    "lastModified": "2020-Nov-18 11:02:15",
+    "size": "12.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.4-beta2_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/Godot_v3.2.4-beta2_osx.64.zip",
+    "lastModified": "2020-Nov-18 11:01:53",
+    "size": "30.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.4-beta2_osx.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/Godot_v3.2.4-beta2_osx.universal.zip",
+    "lastModified": "2020-Nov-20 16:28:35",
+    "size": "58.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.4-beta2_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/Godot_v3.2.4-beta2_win32.exe.zip",
+    "lastModified": "2020-Nov-18 11:01:36",
+    "size": "27.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.4-beta2_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/Godot_v3.2.4-beta2_win64.exe.zip",
+    "lastModified": "2020-Nov-18 11:01:21",
+    "size": "27.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.4-beta2_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/Godot_v3.2.4-beta2_x11.32.zip",
+    "lastModified": "2020-Nov-18 11:01:06",
+    "size": "29.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.4-beta2_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/Godot_v3.2.4-beta2_x11.64.zip",
+    "lastModified": "2020-Nov-18 11:00:50",
+    "size": "30.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/README.txt",
+    "lastModified": "2020-Nov-18 11:06:17",
+    "size": "0.2K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/SHA512-SUMS.txt",
+    "lastModified": "2020-Nov-18 11:06:17",
+    "size": "1.7K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-3.2.4-beta2.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/godot-3.2.4-beta2.tar.xz",
+    "lastModified": "2020-Nov-18 11:00:33",
+    "size": "13.5M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-3.2.4-beta2.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/godot-3.2.4-beta2.tar.xz.sha256",
+    "lastModified": "2020-Nov-18 11:00:33",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.3.2.4.beta2.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.4/beta2/godot-lib.3.2.4.beta2.release.aar",
+    "lastModified": "2020-Nov-18 11:02:36",
+    "size": "37.1M",
+    "type": "application/octet-stream"
+  }
+]

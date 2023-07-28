@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v4.0.3-rc1_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.3/rc1/mono/Godot_v4.0.3-rc1_mono_export_templates.tpz",
+    "lastModified": "2023-Apr-27 14:27:20",
+    "size": "290.9M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.0.3-rc1_mono_linux_x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.3/rc1/mono/Godot_v4.0.3-rc1_mono_linux_x86_32.zip",
+    "lastModified": "2023-Apr-27 14:23:55",
+    "size": "51.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0.3-rc1_mono_linux_x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.3/rc1/mono/Godot_v4.0.3-rc1_mono_linux_x86_64.zip",
+    "lastModified": "2023-Apr-27 14:23:43",
+    "size": "57.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0.3-rc1_mono_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.3/rc1/mono/Godot_v4.0.3-rc1_mono_macos.universal.zip",
+    "lastModified": "2023-Apr-27 14:24:44",
+    "size": "105.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0.3-rc1_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.3/rc1/mono/Godot_v4.0.3-rc1_mono_win32.zip",
+    "lastModified": "2023-Apr-27 14:24:20",
+    "size": "53.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0.3-rc1_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.3/rc1/mono/Godot_v4.0.3-rc1_mono_win64.zip",
+    "lastModified": "2023-Apr-27 14:24:08",
+    "size": "57.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.3/rc1/mono/README.txt",
+    "lastModified": "2023-Apr-27 14:27:20",
+    "size": "0.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.3/rc1/mono/SHA512-SUMS.txt",
+    "lastModified": "2023-Apr-27 14:27:20",
+    "size": "0.9K",
+    "type": "text/plain"
+  }
+]

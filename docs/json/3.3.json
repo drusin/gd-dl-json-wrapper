@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Godot_v3.3-stable_changelog_authors.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_changelog_authors.txt",
+    "lastModified": "2021-Apr-21 15:42:07",
+    "size": "85.0K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.3-stable_changelog_chrono.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_changelog_chrono.txt",
+    "lastModified": "2021-Apr-21 15:42:07",
+    "size": "112.0K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.3-stable_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_export_templates.tpz",
+    "lastModified": "2021-Apr-21 15:45:03",
+    "size": "488.5M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.3-stable_linux_headless.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_linux_headless.64.zip",
+    "lastModified": "2021-Apr-21 15:45:24",
+    "size": "33.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.3-stable_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_linux_server.64.zip",
+    "lastModified": "2021-Apr-21 15:45:30",
+    "size": "12.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.3-stable_osx.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_osx.universal.zip",
+    "lastModified": "2021-Apr-21 15:46:05",
+    "size": "63.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.3-stable_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_web_editor.zip",
+    "lastModified": "2021-Apr-21 15:46:12",
+    "size": "14.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.3-stable_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_win32.exe.zip",
+    "lastModified": "2021-Apr-21 15:46:28",
+    "size": "28.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.3-stable_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_win64.exe.zip",
+    "lastModified": "2021-Apr-21 15:46:46",
+    "size": "33.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.3-stable_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_x11.32.zip",
+    "lastModified": "2021-Apr-21 15:47:01",
+    "size": "28.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.3-stable_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_x11.64.zip",
+    "lastModified": "2021-Apr-21 15:47:20",
+    "size": "35.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/SHA512-SUMS.txt",
+    "lastModified": "2021-Apr-21 15:56:58",
+    "size": "1.9K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-3.3-stable.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/godot-3.3-stable.tar.xz",
+    "lastModified": "2021-Apr-21 15:40:17",
+    "size": "19.6M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-3.3-stable.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/godot-3.3-stable.tar.xz.sha256",
+    "lastModified": "2021-Apr-21 15:40:17",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.3.3.stable.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.3/godot-lib.3.3.stable.release.aar",
+    "lastModified": "2021-Apr-21 15:40:38",
+    "size": "37.7M",
+    "type": "application/octet-stream"
+  }
+]

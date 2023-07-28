@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Godot_v1.1_stable_better_collada.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/1.1/Godot_v1.1_stable_better_collada.zip",
+    "lastModified": "2016-Mar-07 21:01:41",
+    "size": "20.9K",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v1.1_stable_changelog.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/1.1/Godot_v1.1_stable_changelog.txt",
+    "lastModified": "2016-Mar-07 21:00:00",
+    "size": "32.2K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v1.1_stable_demos.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/1.1/Godot_v1.1_stable_demos.zip",
+    "lastModified": "2016-Mar-07 21:02:13",
+    "size": "36.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v1.1_stable_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/1.1/Godot_v1.1_stable_export_templates.tpz",
+    "lastModified": "2016-Mar-07 20:33:34",
+    "size": "171.1M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v1.1_stable_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/1.1/Godot_v1.1_stable_linux_server.64.zip",
+    "lastModified": "2016-Mar-07 20:33:39",
+    "size": "8.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v1.1_stable_osx32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/1.1/Godot_v1.1_stable_osx32.zip",
+    "lastModified": "2016-Mar-07 20:33:46",
+    "size": "10.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v1.1_stable_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/1.1/Godot_v1.1_stable_win32.exe.zip",
+    "lastModified": "2016-Mar-07 20:33:52",
+    "size": "8.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v1.1_stable_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/1.1/Godot_v1.1_stable_win64.exe.zip",
+    "lastModified": "2016-Mar-07 20:33:58",
+    "size": "9.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v1.1_stable_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/1.1/Godot_v1.1_stable_x11.32.zip",
+    "lastModified": "2016-Mar-07 20:34:03",
+    "size": "8.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v1.1_stable_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/1.1/Godot_v1.1_stable_x11.64.zip",
+    "lastModified": "2016-Mar-07 20:34:09",
+    "size": "9.0M",
+    "type": "application/zip"
+  }
+]

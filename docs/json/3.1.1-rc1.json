@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Godot_v3.1.1-rc1_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.1/rc1/Godot_v3.1.1-rc1_export_templates.tpz",
+    "lastModified": "2019-Apr-23 04:36:03",
+    "size": "432.4M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.1.1-rc1_linux_headless.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.1/rc1/Godot_v3.1.1-rc1_linux_headless.64.zip",
+    "lastModified": "2019-Apr-23 04:29:45",
+    "size": "23.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1.1-rc1_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.1/rc1/Godot_v3.1.1-rc1_linux_server.64.zip",
+    "lastModified": "2019-Apr-23 04:29:27",
+    "size": "11.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1.1-rc1_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.1/rc1/Godot_v3.1.1-rc1_osx.64.zip",
+    "lastModified": "2019-Apr-23 04:30:44",
+    "size": "26.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1.1-rc1_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.1/rc1/Godot_v3.1.1-rc1_win32.exe.zip",
+    "lastModified": "2019-Apr-23 04:30:22",
+    "size": "22.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1.1-rc1_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.1/rc1/Godot_v3.1.1-rc1_win64.exe.zip",
+    "lastModified": "2019-Apr-23 04:30:03",
+    "size": "22.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1.1-rc1_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.1/rc1/Godot_v3.1.1-rc1_x11.32.zip",
+    "lastModified": "2019-Apr-23 04:28:53",
+    "size": "25.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1.1-rc1_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.1/rc1/Godot_v3.1.1-rc1_x11.64.zip",
+    "lastModified": "2019-Apr-23 04:29:19",
+    "size": "25.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.1/rc1/README.txt",
+    "lastModified": "2019-Apr-23 04:36:03",
+    "size": "0.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-3.1.1-rc1.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.1/rc1/godot-3.1.1-rc1.tar.xz",
+    "lastModified": "2019-Apr-23 04:29:01",
+    "size": "12.4M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-3.1.1-rc1.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.1/rc1/godot-3.1.1-rc1.tar.xz.sha256",
+    "lastModified": "2019-Apr-23 04:29:01",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  }
+]

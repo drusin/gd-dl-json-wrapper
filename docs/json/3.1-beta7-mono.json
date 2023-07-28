@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Godot_v3.1-beta7_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta7/mono/Godot_v3.1-beta7_mono_export_templates.tpz",
+    "lastModified": "2019-Feb-24 14:25:52",
+    "size": "186.9M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.1-beta7_mono_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta7/mono/Godot_v3.1-beta7_mono_osx.64.zip",
+    "lastModified": "2019-Feb-24 14:23:37",
+    "size": "48.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta7_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta7/mono/Godot_v3.1-beta7_mono_win32.zip",
+    "lastModified": "2019-Feb-24 14:23:05",
+    "size": "44.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta7_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta7/mono/Godot_v3.1-beta7_mono_win64.zip",
+    "lastModified": "2019-Feb-24 14:22:36",
+    "size": "44.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta7_mono_x11_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta7/mono/Godot_v3.1-beta7_mono_x11_32.zip",
+    "lastModified": "2019-Feb-24 14:21:29",
+    "size": "58.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta7_mono_x11_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta7/mono/Godot_v3.1-beta7_mono_x11_64.zip",
+    "lastModified": "2019-Feb-24 14:22:06",
+    "size": "57.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta7/mono/README.txt",
+    "lastModified": "2019-Feb-24 14:23:37",
+    "size": "0.3K",
+    "type": "text/plain"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Godot_v4.0-rc6_android_editor.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc6/Godot_v4.0-rc6_android_editor.apk",
+    "lastModified": "2023-Feb-27 08:36:10",
+    "size": "188.8M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "Godot_v4.0-rc6_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc6/Godot_v4.0-rc6_export_templates.tpz",
+    "lastModified": "2023-Feb-27 08:41:16",
+    "size": "756.7M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.0-rc6_linux.x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc6/Godot_v4.0-rc6_linux.x86_32.zip",
+    "lastModified": "2023-Feb-27 08:34:22",
+    "size": "42.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-rc6_linux.x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc6/Godot_v4.0-rc6_linux.x86_64.zip",
+    "lastModified": "2023-Feb-27 08:34:12",
+    "size": "49.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-rc6_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc6/Godot_v4.0-rc6_macos.universal.zip",
+    "lastModified": "2023-Feb-27 08:35:05",
+    "size": "94.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-rc6_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc6/Godot_v4.0-rc6_web_editor.zip",
+    "lastModified": "2023-Feb-27 08:35:10",
+    "size": "22.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-rc6_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc6/Godot_v4.0-rc6_win32.exe.zip",
+    "lastModified": "2023-Feb-27 08:34:44",
+    "size": "44.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-rc6_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc6/Godot_v4.0-rc6_win64.exe.zip",
+    "lastModified": "2023-Feb-27 08:34:33",
+    "size": "49.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc6/README.txt",
+    "lastModified": "2023-Feb-27 08:41:16",
+    "size": "0.6K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc6/SHA512-SUMS.txt",
+    "lastModified": "2023-Feb-27 08:41:16",
+    "size": "1.7K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-4.0-rc6.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc6/godot-4.0-rc6.tar.xz",
+    "lastModified": "2023-Feb-27 08:34:01",
+    "size": "28.0M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-4.0-rc6.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc6/godot-4.0-rc6.tar.xz.sha256",
+    "lastModified": "2023-Feb-27 08:34:01",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.4.0.rc6.template_release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc6/godot-lib.4.0.rc6.template_release.aar",
+    "lastModified": "2023-Feb-27 08:35:26",
+    "size": "70.9M",
+    "type": "application/octet-stream"
+  }
+]

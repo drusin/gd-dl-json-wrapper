@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v4.0.1-rc2_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.1/rc2/mono/Godot_v4.0.1-rc2_mono_export_templates.tpz",
+    "lastModified": "2023-Mar-17 09:13:12",
+    "size": "290.6M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.0.1-rc2_mono_linux_x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.1/rc2/mono/Godot_v4.0.1-rc2_mono_linux_x86_32.zip",
+    "lastModified": "2023-Mar-17 09:09:50",
+    "size": "50.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0.1-rc2_mono_linux_x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.1/rc2/mono/Godot_v4.0.1-rc2_mono_linux_x86_64.zip",
+    "lastModified": "2023-Mar-17 09:09:38",
+    "size": "57.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0.1-rc2_mono_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.1/rc2/mono/Godot_v4.0.1-rc2_mono_macos.universal.zip",
+    "lastModified": "2023-Mar-17 09:11:11",
+    "size": "103.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0.1-rc2_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.1/rc2/mono/Godot_v4.0.1-rc2_mono_win32.zip",
+    "lastModified": "2023-Mar-17 09:10:15",
+    "size": "52.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0.1-rc2_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.1/rc2/mono/Godot_v4.0.1-rc2_mono_win64.zip",
+    "lastModified": "2023-Mar-17 09:10:03",
+    "size": "57.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.1/rc2/mono/README.txt",
+    "lastModified": "2023-Mar-17 09:13:13",
+    "size": "0.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0.1/rc2/mono/SHA512-SUMS.txt",
+    "lastModified": "2023-Mar-17 09:13:13",
+    "size": "0.9K",
+    "type": "text/plain"
+  }
+]

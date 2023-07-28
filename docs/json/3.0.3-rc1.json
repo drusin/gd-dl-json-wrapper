@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v3.0.3-rc1_changelog.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.0.3/rc1/Godot_v3.0.3-rc1_changelog.txt",
+    "lastModified": "2018-May-03 00:49:38",
+    "size": "14.8K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.0.3-rc1_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.0.3/rc1/Godot_v3.0.3-rc1_export_templates.tpz",
+    "lastModified": "2018-May-02 23:49:57",
+    "size": "466.0M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.0.3-rc1_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.0.3/rc1/Godot_v3.0.3-rc1_linux_server.64.zip",
+    "lastModified": "2018-May-02 23:42:34",
+    "size": "10.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.0.3-rc1_osx.fat.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.0.3/rc1/Godot_v3.0.3-rc1_osx.fat.zip",
+    "lastModified": "2018-May-02 23:42:57",
+    "size": "43.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.0.3-rc1_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.0.3/rc1/Godot_v3.0.3-rc1_win32.exe.zip",
+    "lastModified": "2018-May-02 23:43:07",
+    "size": "15.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.0.3-rc1_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.0.3/rc1/Godot_v3.0.3-rc1_win64.exe.zip",
+    "lastModified": "2018-May-02 23:43:19",
+    "size": "19.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.0.3-rc1_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.0.3/rc1/Godot_v3.0.3-rc1_x11.32.zip",
+    "lastModified": "2018-May-03 02:52:13",
+    "size": "21.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.0.3-rc1_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.0.3/rc1/Godot_v3.0.3-rc1_x11.64.zip",
+    "lastModified": "2018-May-03 02:52:23",
+    "size": "18.9M",
+    "type": "application/zip"
+  }
+]

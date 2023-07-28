@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v3.2-stable_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/mono/Godot_v3.2-stable_mono_export_templates.tpz",
+    "lastModified": "2020-Jan-29 10:59:30",
+    "size": "489.9M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.2-stable_mono_linux_headless_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/mono/Godot_v3.2-stable_mono_linux_headless_64.zip",
+    "lastModified": "2020-Jan-29 10:54:39",
+    "size": "67.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-stable_mono_linux_server_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/mono/Godot_v3.2-stable_mono_linux_server_64.zip",
+    "lastModified": "2020-Jan-29 10:54:56",
+    "size": "30.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-stable_mono_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/mono/Godot_v3.2-stable_mono_osx.64.zip",
+    "lastModified": "2020-Jan-29 10:54:03",
+    "size": "56.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-stable_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/mono/Godot_v3.2-stable_mono_win32.zip",
+    "lastModified": "2020-Jan-29 10:53:32",
+    "size": "52.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-stable_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/mono/Godot_v3.2-stable_mono_win64.zip",
+    "lastModified": "2020-Jan-29 10:53:04",
+    "size": "52.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-stable_mono_x11_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/mono/Godot_v3.2-stable_mono_x11_32.zip",
+    "lastModified": "2020-Jan-29 10:52:33",
+    "size": "67.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-stable_mono_x11_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/mono/Godot_v3.2-stable_mono_x11_64.zip",
+    "lastModified": "2020-Jan-29 10:51:56",
+    "size": "68.9M",
+    "type": "application/zip"
+  }
+]

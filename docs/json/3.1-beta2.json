@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Godot_v3.1-beta2_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta2/Godot_v3.1-beta2_export_templates.tpz",
+    "lastModified": "2019-Jan-18 14:10:33",
+    "size": "395.7M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.1-beta2_linux_headless.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta2/Godot_v3.1-beta2_linux_headless.64.zip",
+    "lastModified": "2019-Jan-18 14:05:26",
+    "size": "25.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta2_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta2/Godot_v3.1-beta2_linux_server.64.zip",
+    "lastModified": "2019-Jan-18 14:05:07",
+    "size": "12.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta2_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta2/Godot_v3.1-beta2_osx.64.zip",
+    "lastModified": "2019-Jan-18 14:06:15",
+    "size": "26.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta2_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta2/Godot_v3.1-beta2_win32.exe.zip",
+    "lastModified": "2019-Jan-18 14:05:56",
+    "size": "22.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta2_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta2/Godot_v3.1-beta2_win64.exe.zip",
+    "lastModified": "2019-Jan-18 14:05:41",
+    "size": "21.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta2_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta2/Godot_v3.1-beta2_x11.32.zip",
+    "lastModified": "2019-Jan-18 14:04:43",
+    "size": "24.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta2_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta2/Godot_v3.1-beta2_x11.64.zip",
+    "lastModified": "2019-Jan-18 14:04:58",
+    "size": "24.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta2/README.txt",
+    "lastModified": "2019-Jan-18 14:10:33",
+    "size": "0.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-3.1-beta2.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta2/godot-3.1-beta2.tar.xz",
+    "lastModified": "2019-Jan-18 14:04:30",
+    "size": "12.5M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-3.1-beta2.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta2/godot-3.1-beta2.tar.xz.sha256",
+    "lastModified": "2019-Jan-18 14:04:30",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  }
+]

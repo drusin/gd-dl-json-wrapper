@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v4.0-beta2_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/mono/Godot_v4.0-beta2_mono_export_templates.tpz",
+    "lastModified": "2022-Sep-29 09:12:22",
+    "size": "274.4M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.0-beta2_mono_linux_x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/mono/Godot_v4.0-beta2_mono_linux_x86_32.zip",
+    "lastModified": "2022-Sep-29 09:07:40",
+    "size": "52.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta2_mono_linux_x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/mono/Godot_v4.0-beta2_mono_linux_x86_64.zip",
+    "lastModified": "2022-Sep-29 09:07:11",
+    "size": "58.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta2_mono_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/mono/Godot_v4.0-beta2_mono_macos.universal.zip",
+    "lastModified": "2022-Sep-29 09:09:45",
+    "size": "108.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta2_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/mono/Godot_v4.0-beta2_mono_win32.zip",
+    "lastModified": "2022-Sep-29 09:08:44",
+    "size": "53.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-beta2_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/mono/Godot_v4.0-beta2_mono_win64.zip",
+    "lastModified": "2022-Sep-29 09:08:14",
+    "size": "58.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/mono/README.txt",
+    "lastModified": "2022-Sep-29 09:12:22",
+    "size": "0.7K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/beta2/mono/SHA512-SUMS.txt",
+    "lastModified": "2022-Sep-29 09:12:22",
+    "size": "0.9K",
+    "type": "text/plain"
+  }
+]

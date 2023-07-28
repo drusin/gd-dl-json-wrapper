@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v4.0-rc1_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc1/mono/Godot_v4.0-rc1_mono_export_templates.tpz",
+    "lastModified": "2023-Feb-08 14:43:36",
+    "size": "289.4M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.0-rc1_mono_linux_x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc1/mono/Godot_v4.0-rc1_mono_linux_x86_32.zip",
+    "lastModified": "2023-Feb-08 14:40:18",
+    "size": "49.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-rc1_mono_linux_x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc1/mono/Godot_v4.0-rc1_mono_linux_x86_64.zip",
+    "lastModified": "2023-Feb-08 14:40:06",
+    "size": "55.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-rc1_mono_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc1/mono/Godot_v4.0-rc1_mono_macos.universal.zip",
+    "lastModified": "2023-Feb-08 14:41:46",
+    "size": "100.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-rc1_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc1/mono/Godot_v4.0-rc1_mono_win32.zip",
+    "lastModified": "2023-Feb-08 14:41:01",
+    "size": "51.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.0-rc1_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc1/mono/Godot_v4.0-rc1_mono_win64.zip",
+    "lastModified": "2023-Feb-08 14:40:39",
+    "size": "55.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc1/mono/README.txt",
+    "lastModified": "2023-Feb-08 14:43:37",
+    "size": "0.6K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.0/rc1/mono/SHA512-SUMS.txt",
+    "lastModified": "2023-Feb-08 14:43:37",
+    "size": "0.9K",
+    "type": "text/plain"
+  }
+]

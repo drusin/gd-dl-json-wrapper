@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Godot_v3.2.2-beta2_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.2/beta2/mono/Godot_v3.2.2-beta2_mono_export_templates.tpz",
+    "lastModified": "2020-May-07 14:17:26",
+    "size": "592.7M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.2.2-beta2_mono_linux_headless_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.2/beta2/mono/Godot_v3.2.2-beta2_mono_linux_headless_64.zip",
+    "lastModified": "2020-May-07 14:11:30",
+    "size": "71.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.2-beta2_mono_linux_server_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.2/beta2/mono/Godot_v3.2.2-beta2_mono_linux_server_64.zip",
+    "lastModified": "2020-May-07 14:11:46",
+    "size": "30.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.2-beta2_mono_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.2/beta2/mono/Godot_v3.2.2-beta2_mono_osx.64.zip",
+    "lastModified": "2020-May-07 14:10:50",
+    "size": "60.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.2-beta2_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.2/beta2/mono/Godot_v3.2.2-beta2_mono_win32.zip",
+    "lastModified": "2020-May-07 14:10:16",
+    "size": "56.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.2-beta2_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.2/beta2/mono/Godot_v3.2.2-beta2_mono_win64.zip",
+    "lastModified": "2020-May-07 14:09:43",
+    "size": "56.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.2-beta2_mono_x11_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.2/beta2/mono/Godot_v3.2.2-beta2_mono_x11_32.zip",
+    "lastModified": "2020-May-07 14:18:57",
+    "size": "72.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.2-beta2_mono_x11_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.2/beta2/mono/Godot_v3.2.2-beta2_mono_x11_64.zip",
+    "lastModified": "2020-May-07 14:18:08",
+    "size": "73.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.2/beta2/mono/README.txt",
+    "lastModified": "2020-May-07 14:17:26",
+    "size": "0.2K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.2/beta2/mono/SHA512-SUMS.txt",
+    "lastModified": "2020-May-07 14:17:26",
+    "size": "1.3K",
+    "type": "text/plain"
+  }
+]

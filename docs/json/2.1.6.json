@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Godot_v2.1.6-stable_changelog.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.6/Godot_v2.1.6-stable_changelog.txt",
+    "lastModified": "2019-Jul-11 10:55:51",
+    "size": "2.0K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v2.1.6-stable_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.6/Godot_v2.1.6-stable_export_templates.tpz",
+    "lastModified": "2019-Jul-12 08:43:01",
+    "size": "233.9M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v2.1.6-stable_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.6/Godot_v2.1.6-stable_linux_server.64.zip",
+    "lastModified": "2019-Jul-11 10:53:32",
+    "size": "16.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.6-stable_osx.fat.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.6/Godot_v2.1.6-stable_osx.fat.zip",
+    "lastModified": "2019-Jul-11 10:56:33",
+    "size": "36.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.6-stable_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.6/Godot_v2.1.6-stable_win32.exe.zip",
+    "lastModified": "2019-Jul-11 10:53:22",
+    "size": "11.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.6-stable_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.6/Godot_v2.1.6-stable_win64.exe.zip",
+    "lastModified": "2019-Jul-11 10:53:15",
+    "size": "12.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.6-stable_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.6/Godot_v2.1.6-stable_x11.32.zip",
+    "lastModified": "2019-Jul-11 10:56:11",
+    "size": "16.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.6-stable_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.6/Godot_v2.1.6-stable_x11.64.zip",
+    "lastModified": "2019-Jul-11 10:56:01",
+    "size": "16.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "godot-2.1.6-stable.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.6/godot-2.1.6-stable.tar.xz",
+    "lastModified": "2019-Jul-11 10:53:08",
+    "size": "69.6M",
+    "type": "application/x-xz"
+  }
+]

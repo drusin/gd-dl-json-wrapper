@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Godot_v3.2.3-rc3_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.3/rc3/mono/Godot_v3.2.3-rc3_mono_export_templates.tpz",
+    "lastModified": "2020-Jul-31 17:30:28",
+    "size": "595.4M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.2.3-rc3_mono_linux_headless_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.3/rc3/mono/Godot_v3.2.3-rc3_mono_linux_headless_64.zip",
+    "lastModified": "2020-Jul-31 17:24:14",
+    "size": "71.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.3-rc3_mono_linux_server_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.3/rc3/mono/Godot_v3.2.3-rc3_mono_linux_server_64.zip",
+    "lastModified": "2020-Jul-31 17:24:30",
+    "size": "30.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.3-rc3_mono_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.3/rc3/mono/Godot_v3.2.3-rc3_mono_osx.64.zip",
+    "lastModified": "2020-Jul-31 17:23:34",
+    "size": "60.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.3-rc3_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.3/rc3/mono/Godot_v3.2.3-rc3_mono_win32.zip",
+    "lastModified": "2020-Jul-31 17:23:01",
+    "size": "57.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.3-rc3_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.3/rc3/mono/Godot_v3.2.3-rc3_mono_win64.zip",
+    "lastModified": "2020-Jul-31 17:22:27",
+    "size": "56.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.3-rc3_mono_x11_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.3/rc3/mono/Godot_v3.2.3-rc3_mono_x11_32.zip",
+    "lastModified": "2020-Jul-31 17:21:53",
+    "size": "72.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2.3-rc3_mono_x11_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.3/rc3/mono/Godot_v3.2.3-rc3_mono_x11_64.zip",
+    "lastModified": "2020-Jul-31 17:21:08",
+    "size": "73.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.3/rc3/mono/README.txt",
+    "lastModified": "2020-Jul-31 17:30:28",
+    "size": "0.2K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.3/rc3/mono/SHA512-SUMS.txt",
+    "lastModified": "2020-Jul-31 17:30:28",
+    "size": "1.4K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-lib.3.2.3.rc3.mono.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2.3/rc3/mono/godot-lib.3.2.3.rc3.mono.release.aar",
+    "lastModified": "2020-Jul-31 17:24:57",
+    "size": "49.0M",
+    "type": "application/octet-stream"
+  }
+]

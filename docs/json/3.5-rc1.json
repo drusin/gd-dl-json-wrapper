@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Godot_v3.5-rc1_android_editor.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/Godot_v3.5-rc1_android_editor.apk",
+    "lastModified": "2022-May-18 13:07:06",
+    "size": "126.5M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "Godot_v3.5-rc1_changelog_authors.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/Godot_v3.5-rc1_changelog_authors.txt",
+    "lastModified": "2022-May-18 16:49:47",
+    "size": "67.9K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.5-rc1_changelog_chrono.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/Godot_v3.5-rc1_changelog_chrono.txt",
+    "lastModified": "2022-May-18 16:49:48",
+    "size": "88.7K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.5-rc1_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/Godot_v3.5-rc1_export_templates.tpz",
+    "lastModified": "2022-May-18 13:12:17",
+    "size": "541.8M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.5-rc1_linux_headless.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/Godot_v3.5-rc1_linux_headless.64.zip",
+    "lastModified": "2022-May-18 13:05:15",
+    "size": "34.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-rc1_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/Godot_v3.5-rc1_linux_server.64.zip",
+    "lastModified": "2022-May-18 13:05:23",
+    "size": "13.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-rc1_osx.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/Godot_v3.5-rc1_osx.universal.zip",
+    "lastModified": "2022-May-18 13:04:55",
+    "size": "64.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-rc1_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/Godot_v3.5-rc1_web_editor.zip",
+    "lastModified": "2022-May-18 13:05:31",
+    "size": "14.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-rc1_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/Godot_v3.5-rc1_win32.exe.zip",
+    "lastModified": "2022-May-18 13:04:19",
+    "size": "30.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-rc1_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/Godot_v3.5-rc1_win64.exe.zip",
+    "lastModified": "2022-May-18 13:04:02",
+    "size": "35.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-rc1_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/Godot_v3.5-rc1_x11.32.zip",
+    "lastModified": "2022-May-18 13:03:42",
+    "size": "30.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.5-rc1_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/Godot_v3.5-rc1_x11.64.zip",
+    "lastModified": "2022-May-18 13:03:25",
+    "size": "37.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/README.txt",
+    "lastModified": "2022-May-18 13:12:17",
+    "size": "0.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/SHA512-SUMS.txt",
+    "lastModified": "2022-May-19 16:28:31",
+    "size": "2.0K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-3.5-rc1.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/godot-3.5-rc1.tar.xz",
+    "lastModified": "2022-May-18 13:03:04",
+    "size": "22.9M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-3.5-rc1.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/godot-3.5-rc1.tar.xz.sha256",
+    "lastModified": "2022-May-18 13:03:05",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.3.5.rc1.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5/rc1/godot-lib.3.5.rc1.release.aar",
+    "lastModified": "2022-May-18 13:05:56",
+    "size": "43.7M",
+    "type": "application/octet-stream"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v3.1.2-rc1_changelog.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.2/rc1/mono/Godot_v3.1.2-rc1_changelog.txt",
+    "lastModified": "2019-Nov-13 10:33:10",
+    "size": "23.4K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.1.2-rc1_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.2/rc1/mono/Godot_v3.1.2-rc1_mono_export_templates.tpz",
+    "lastModified": "2019-Nov-13 09:19:59",
+    "size": "188.4M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.1.2-rc1_mono_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.2/rc1/mono/Godot_v3.1.2-rc1_mono_osx.64.zip",
+    "lastModified": "2019-Nov-13 09:18:14",
+    "size": "50.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1.2-rc1_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.2/rc1/mono/Godot_v3.1.2-rc1_mono_win32.zip",
+    "lastModified": "2019-Nov-13 09:17:46",
+    "size": "45.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1.2-rc1_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.2/rc1/mono/Godot_v3.1.2-rc1_mono_win64.zip",
+    "lastModified": "2019-Nov-13 09:17:21",
+    "size": "45.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1.2-rc1_mono_x11_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.2/rc1/mono/Godot_v3.1.2-rc1_mono_x11_32.zip",
+    "lastModified": "2019-Nov-13 09:16:56",
+    "size": "59.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1.2-rc1_mono_x11_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.2/rc1/mono/Godot_v3.1.2-rc1_mono_x11_64.zip",
+    "lastModified": "2019-Nov-13 09:16:23",
+    "size": "58.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1.2/rc1/mono/README.txt",
+    "lastModified": "2019-Nov-13 09:19:59",
+    "size": "0.3K",
+    "type": "text/plain"
+  }
+]

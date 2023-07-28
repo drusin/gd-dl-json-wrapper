@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Godot_v3.1-beta8_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta8/Godot_v3.1-beta8_export_templates.tpz",
+    "lastModified": "2019-Feb-26 16:12:22",
+    "size": "431.1M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.1-beta8_linux_headless.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta8/Godot_v3.1-beta8_linux_headless.64.zip",
+    "lastModified": "2019-Feb-26 16:06:58",
+    "size": "25.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta8_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta8/Godot_v3.1-beta8_linux_server.64.zip",
+    "lastModified": "2019-Feb-26 16:06:42",
+    "size": "12.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta8_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta8/Godot_v3.1-beta8_osx.64.zip",
+    "lastModified": "2019-Feb-26 16:07:46",
+    "size": "26.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta8_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta8/Godot_v3.1-beta8_win32.exe.zip",
+    "lastModified": "2019-Feb-26 16:07:28",
+    "size": "22.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta8_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta8/Godot_v3.1-beta8_win64.exe.zip",
+    "lastModified": "2019-Feb-26 16:07:13",
+    "size": "22.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta8_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta8/Godot_v3.1-beta8_x11.32.zip",
+    "lastModified": "2019-Feb-26 16:06:09",
+    "size": "24.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.1-beta8_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta8/Godot_v3.1-beta8_x11.64.zip",
+    "lastModified": "2019-Feb-26 16:06:25",
+    "size": "24.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta8/README.txt",
+    "lastModified": "2019-Feb-26 16:07:47",
+    "size": "0.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-3.1-beta8.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta8/godot-3.1-beta8.tar.xz",
+    "lastModified": "2019-Feb-26 16:06:33",
+    "size": "12.5M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-3.1-beta8.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.1/beta8/godot-3.1-beta8.tar.xz.sha256",
+    "lastModified": "2019-Feb-26 16:06:33",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  }
+]

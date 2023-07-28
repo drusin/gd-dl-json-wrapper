@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v2.1.7-rc_20200815_changelog.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.7/rc/20200815/Godot_v2.1.7-rc_20200815_changelog.txt",
+    "lastModified": "2020-Aug-15 23:46:14",
+    "size": "2.4K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v2.1.7-rc_20200815_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.7/rc/20200815/Godot_v2.1.7-rc_20200815_export_templates.tpz",
+    "lastModified": "2020-Aug-15 20:45:49",
+    "size": "206.6M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v2.1.7-rc_20200815_linux_server.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.7/rc/20200815/Godot_v2.1.7-rc_20200815_linux_server.64.zip",
+    "lastModified": "2020-Aug-15 20:45:58",
+    "size": "16.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.7-rc_20200815_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.7/rc/20200815/Godot_v2.1.7-rc_20200815_osx.64.zip",
+    "lastModified": "2020-Aug-15 20:43:09",
+    "size": "17.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.7-rc_20200815_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.7/rc/20200815/Godot_v2.1.7-rc_20200815_win32.exe.zip",
+    "lastModified": "2020-Aug-15 20:43:34",
+    "size": "11.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.7-rc_20200815_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.7/rc/20200815/Godot_v2.1.7-rc_20200815_win64.exe.zip",
+    "lastModified": "2020-Aug-15 20:43:17",
+    "size": "12.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.7-rc_20200815_x11.32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.7/rc/20200815/Godot_v2.1.7-rc_20200815_x11.32.zip",
+    "lastModified": "2020-Aug-15 20:43:45",
+    "size": "16.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v2.1.7-rc_20200815_x11.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/2.1.7/rc/20200815/Godot_v2.1.7-rc_20200815_x11.64.zip",
+    "lastModified": "2020-Aug-15 20:43:27",
+    "size": "16.8M",
+    "type": "application/zip"
+  }
+]

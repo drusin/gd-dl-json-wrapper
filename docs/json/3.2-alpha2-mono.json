@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Godot_v3.2-alpha2_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/alpha2/mono/Godot_v3.2-alpha2_mono_export_templates.tpz",
+    "lastModified": "2019-Oct-11 21:35:49",
+    "size": "401.4M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.2-alpha2_mono_osx.64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/alpha2/mono/Godot_v3.2-alpha2_mono_osx.64.zip",
+    "lastModified": "2019-Oct-11 21:22:26",
+    "size": "53.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-alpha2_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/alpha2/mono/Godot_v3.2-alpha2_mono_win32.zip",
+    "lastModified": "2019-Oct-11 21:21:53",
+    "size": "49.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-alpha2_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/alpha2/mono/Godot_v3.2-alpha2_mono_win64.zip",
+    "lastModified": "2019-Oct-11 21:21:22",
+    "size": "49.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-alpha2_mono_x11_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/alpha2/mono/Godot_v3.2-alpha2_mono_x11_32.zip",
+    "lastModified": "2019-Oct-11 21:20:14",
+    "size": "64.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.2-alpha2_mono_x11_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/alpha2/mono/Godot_v3.2-alpha2_mono_x11_64.zip",
+    "lastModified": "2019-Oct-11 21:20:51",
+    "size": "63.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.2/alpha2/mono/README.txt",
+    "lastModified": "2019-Oct-11 21:21:36",
+    "size": "0.4K",
+    "type": "text/plain"
+  }
+]
