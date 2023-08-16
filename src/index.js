@@ -22,9 +22,10 @@ const versions = {};
 const promises = mainVersions.map(version => traverse(version.url, version.name, versions));
 await Promise.all(promises);
 
-const mainJson = Object.keys(versions)
+const mainParts = Object.keys(versions)
         .sort()
         .map(name => ({ [name]: `https://drusin.github.io/gd-dl-json-wrapper/json/${name}.json` }));
+const mainJson = Object.assign({}, ...mainParts)
 writeFile('docs/json/main.json', JSON.stringify(mainJson, undefined, 2), console.error);
 
 for (const version of Object.values(versions)) {
