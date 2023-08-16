@@ -882,6 +882,12 @@
     "3.6-beta2-mono": "https://drusin.github.io/gd-dl-json-wrapper/json/3.6-beta2-mono.json"
   },
   {
+    "3.6-beta3": "https://drusin.github.io/gd-dl-json-wrapper/json/3.6-beta3.json"
+  },
+  {
+    "3.6-beta3-mono": "https://drusin.github.io/gd-dl-json-wrapper/json/3.6-beta3-mono.json"
+  },
+  {
     "4.0": "https://drusin.github.io/gd-dl-json-wrapper/json/4.0.json"
   },
   {
