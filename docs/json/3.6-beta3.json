@@ -2,14 +2,14 @@
   {
     "name": "Godot_v3.6-beta3_android_editor.aab",
     "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta3/Godot_v3.6-beta3_android_editor.aab",
-    "lastModified": "2023-Aug-16 11:06:37",
+    "lastModified": "2023-Aug-18 20:33:58",
     "size": "274.6M",
     "type": "application/octet-stream"
   },
   {
     "name": "Godot_v3.6-beta3_android_editor.apk",
     "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta3/Godot_v3.6-beta3_android_editor.apk",
-    "lastModified": "2023-Aug-16 11:05:35",
+    "lastModified": "2023-Aug-18 20:34:47",
     "size": "133.1M",
     "type": "application/vnd.android.package-archive"
   },
@@ -86,7 +86,7 @@
   {
     "name": "SHA512-SUMS.txt",
     "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta3/SHA512-SUMS.txt",
-    "lastModified": "2023-Aug-16 11:08:43",
+    "lastModified": "2023-Aug-18 20:36:15",
     "size": "2.2K",
     "type": "text/plain"
   },
