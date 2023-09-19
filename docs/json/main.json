@@ -429,5 +429,7 @@
   "4.2-dev3": "https://drusin.github.io/gd-dl-json-wrapper/json/4.2-dev3.json",
   "4.2-dev3-mono": "https://drusin.github.io/gd-dl-json-wrapper/json/4.2-dev3-mono.json",
   "4.2-dev4": "https://drusin.github.io/gd-dl-json-wrapper/json/4.2-dev4.json",
-  "4.2-dev4-mono": "https://drusin.github.io/gd-dl-json-wrapper/json/4.2-dev4-mono.json"
+  "4.2-dev4-mono": "https://drusin.github.io/gd-dl-json-wrapper/json/4.2-dev4-mono.json",
+  "4.2-dev5": "https://drusin.github.io/gd-dl-json-wrapper/json/4.2-dev5.json",
+  "4.2-dev5-mono": "https://drusin.github.io/gd-dl-json-wrapper/json/4.2-dev5-mono.json"
 }
