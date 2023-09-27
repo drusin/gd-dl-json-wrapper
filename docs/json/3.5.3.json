@@ -9,8 +9,8 @@
   {
     "name": "Godot_v3.5.3-stable_export_templates.tpz",
     "url": "https://downloads.tuxfamily.org/godotengine/3.5.3/Godot_v3.5.3-stable_export_templates.tpz",
-    "lastModified": "2023-Sep-25 09:28:35",
-    "size": "548.9M",
+    "lastModified": "2023-Sep-27 12:55:33",
+    "size": "549.0M",
     "type": "application/octet-stream"
   },
   {
@@ -72,7 +72,7 @@
   {
     "name": "SHA512-SUMS.txt",
     "url": "https://downloads.tuxfamily.org/godotengine/3.5.3/SHA512-SUMS.txt",
-    "lastModified": "2023-Sep-25 09:33:50",
+    "lastModified": "2023-Sep-27 12:59:18",
     "size": "2.1K",
     "type": "text/plain"
   },
