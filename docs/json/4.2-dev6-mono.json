@@ -42,6 +42,13 @@
     "type": "application/zip"
   },
   {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/dev6/mono/README.txt",
+    "lastModified": "2023-Oct-03 10:52:54",
+    "size": "0.3K",
+    "type": "text/plain"
+  },
+  {
     "name": "SHA512-SUMS.txt",
     "url": "https://downloads.tuxfamily.org/godotengine/4.2/dev6/mono/SHA512-SUMS.txt",
     "lastModified": "2023-Oct-02 19:53:09",
