@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v4.2-dev6_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/dev6/mono/Godot_v4.2-dev6_mono_export_templates.tpz",
+    "lastModified": "2023-Oct-02 19:53:08",
+    "size": "587.2M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.2-dev6_mono_linux_x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/dev6/mono/Godot_v4.2-dev6_mono_linux_x86_32.zip",
+    "lastModified": "2023-Oct-02 19:49:54",
+    "size": "49.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-dev6_mono_linux_x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/dev6/mono/Godot_v4.2-dev6_mono_linux_x86_64.zip",
+    "lastModified": "2023-Oct-02 19:49:42",
+    "size": "49.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-dev6_mono_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/dev6/mono/Godot_v4.2-dev6_mono_macos.universal.zip",
+    "lastModified": "2023-Oct-02 19:50:39",
+    "size": "93.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-dev6_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/dev6/mono/Godot_v4.2-dev6_mono_win32.zip",
+    "lastModified": "2023-Oct-02 19:50:18",
+    "size": "53.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-dev6_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/dev6/mono/Godot_v4.2-dev6_mono_win64.zip",
+    "lastModified": "2023-Oct-02 19:50:06",
+    "size": "52.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/dev6/mono/SHA512-SUMS.txt",
+    "lastModified": "2023-Oct-02 19:53:09",
+    "size": "1.1K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-lib.4.2.dev6.mono.template_release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/dev6/mono/godot-lib.4.2.dev6.mono.template_release.aar",
+    "lastModified": "2023-Oct-02 19:50:56",
+    "size": "75.5M",
+    "type": "application/octet-stream"
+  }
+]
