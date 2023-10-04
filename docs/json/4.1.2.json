@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Godot_v4.1.2-stable_android_editor.aab",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.2/Godot_v4.1.2-stable_android_editor.aab",
+    "lastModified": "2023-Oct-04 11:10:39",
+    "size": "203.8M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.1.2-stable_android_editor.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.2/Godot_v4.1.2-stable_android_editor.apk",
+    "lastModified": "2023-Oct-04 11:11:23",
+    "size": "202.4M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "Godot_v4.1.2-stable_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.2/Godot_v4.1.2-stable_export_templates.tpz",
+    "lastModified": "2023-Oct-04 11:14:42",
+    "size": "921.9M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.1.2-stable_linux.x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.2/Godot_v4.1.2-stable_linux.x86_32.zip",
+    "lastModified": "2023-Oct-04 11:14:52",
+    "size": "45.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.1.2-stable_linux.x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.2/Godot_v4.1.2-stable_linux.x86_64.zip",
+    "lastModified": "2023-Oct-04 11:15:03",
+    "size": "52.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.1.2-stable_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.2/Godot_v4.1.2-stable_macos.universal.zip",
+    "lastModified": "2023-Oct-04 11:15:25",
+    "size": "101.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.1.2-stable_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.2/Godot_v4.1.2-stable_web_editor.zip",
+    "lastModified": "2023-Oct-04 11:15:31",
+    "size": "25.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.1.2-stable_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.2/Godot_v4.1.2-stable_win32.exe.zip",
+    "lastModified": "2023-Oct-04 11:15:42",
+    "size": "47.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.1.2-stable_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.2/Godot_v4.1.2-stable_win64.exe.zip",
+    "lastModified": "2023-Oct-04 11:15:53",
+    "size": "52.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.2/SHA512-SUMS.txt",
+    "lastModified": "2023-Oct-04 11:18:13",
+    "size": "1.9K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-4.1.2-stable.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.2/godot-4.1.2-stable.tar.xz",
+    "lastModified": "2023-Oct-04 11:09:31",
+    "size": "29.5M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-4.1.2-stable.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.2/godot-4.1.2-stable.tar.xz.sha256",
+    "lastModified": "2023-Oct-04 11:09:32",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.4.1.2.stable.template_release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.2/godot-lib.4.1.2.stable.template_release.aar",
+    "lastModified": "2023-Oct-04 11:09:54",
+    "size": "99.4M",
+    "type": "application/octet-stream"
+  }
+]
