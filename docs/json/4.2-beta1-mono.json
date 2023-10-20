@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Godot_v4.2-beta1_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta1/mono/Godot_v4.2-beta1_mono_export_templates.tpz",
+    "lastModified": "2023-Oct-19 20:08:23",
+    "size": "731.0M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.2-beta1_mono_linux_x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta1/mono/Godot_v4.2-beta1_mono_linux_x86_32.zip",
+    "lastModified": "2023-Oct-19 20:05:44",
+    "size": "49.2M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-beta1_mono_linux_x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta1/mono/Godot_v4.2-beta1_mono_linux_x86_64.zip",
+    "lastModified": "2023-Oct-19 20:08:47",
+    "size": "49.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-beta1_mono_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta1/mono/Godot_v4.2-beta1_mono_macos.universal.zip",
+    "lastModified": "2023-Oct-19 20:09:09",
+    "size": "93.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-beta1_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta1/mono/Godot_v4.2-beta1_mono_win32.zip",
+    "lastModified": "2023-Oct-19 20:05:33",
+    "size": "53.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-beta1_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta1/mono/Godot_v4.2-beta1_mono_win64.zip",
+    "lastModified": "2023-Oct-19 20:08:35",
+    "size": "52.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta1/mono/SHA512-SUMS.txt",
+    "lastModified": "2023-Oct-19 20:05:33",
+    "size": "1.1K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-lib.4.2.beta1.mono.template_release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta1/mono/godot-lib.4.2.beta1.mono.template_release.aar",
+    "lastModified": "2023-Oct-19 20:05:21",
+    "size": "75.8M",
+    "type": "application/octet-stream"
+  }
+]
