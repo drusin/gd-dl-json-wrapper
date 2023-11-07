@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Godot_v4.2-beta5_android_editor.aab",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/Godot_v4.2-beta5_android_editor.aab",
+    "lastModified": "2023-Nov-06 21:04:26",
+    "size": "161.4M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.2-beta5_android_editor.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/Godot_v4.2-beta5_android_editor.apk",
+    "lastModified": "2023-Nov-06 21:03:50",
+    "size": "160.0M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "Godot_v4.2-beta5_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/Godot_v4.2-beta5_export_templates.tpz",
+    "lastModified": "2023-Nov-06 21:07:34",
+    "size": "848.1M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.2-beta5_linux.arm32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/Godot_v4.2-beta5_linux.arm32.zip",
+    "lastModified": "2023-Nov-06 21:02:11",
+    "size": "37.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-beta5_linux.arm64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/Godot_v4.2-beta5_linux.arm64.zip",
+    "lastModified": "2023-Nov-06 21:02:03",
+    "size": "39.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-beta5_linux.x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/Godot_v4.2-beta5_linux.x86_32.zip",
+    "lastModified": "2023-Nov-06 21:01:54",
+    "size": "39.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-beta5_linux.x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/Godot_v4.2-beta5_linux.x86_64.zip",
+    "lastModified": "2023-Nov-06 21:01:45",
+    "size": "40.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-beta5_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/Godot_v4.2-beta5_macos.universal.zip",
+    "lastModified": "2023-Nov-06 21:02:50",
+    "size": "84.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-beta5_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/Godot_v4.2-beta5_web_editor.zip",
+    "lastModified": "2023-Nov-06 21:02:56",
+    "size": "25.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-beta5_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/Godot_v4.2-beta5_win32.exe.zip",
+    "lastModified": "2023-Nov-06 21:02:31",
+    "size": "44.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.2-beta5_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/Godot_v4.2-beta5_win64.exe.zip",
+    "lastModified": "2023-Nov-06 21:02:21",
+    "size": "43.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/SHA512-SUMS.txt",
+    "lastModified": "2023-Nov-06 21:07:34",
+    "size": "2.2K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-4.2-beta5.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/godot-4.2-beta5.tar.xz",
+    "lastModified": "2023-Nov-06 21:01:35",
+    "size": "24.7M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-4.2-beta5.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/godot-4.2-beta5.tar.xz.sha256",
+    "lastModified": "2023-Nov-06 21:01:35",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.4.2.beta5.template_release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.2/beta5/godot-lib.4.2.beta5.template_release.aar",
+    "lastModified": "2023-Nov-06 21:03:13",
+    "size": "75.7M",
+    "type": "application/octet-stream"
+  }
+]
