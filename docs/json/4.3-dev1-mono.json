@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Godot_v4.3-dev1_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev1/mono/Godot_v4.3-dev1_mono_export_templates.tpz",
+    "lastModified": "2023-Dec-21 14:11:37",
+    "size": "820.4M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.3-dev1_mono_linux_arm32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev1/mono/Godot_v4.3-dev1_mono_linux_arm32.zip",
+    "lastModified": "2023-Dec-21 14:07:25",
+    "size": "49.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-dev1_mono_linux_arm64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev1/mono/Godot_v4.3-dev1_mono_linux_arm64.zip",
+    "lastModified": "2023-Dec-21 14:07:13",
+    "size": "51.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-dev1_mono_linux_x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev1/mono/Godot_v4.3-dev1_mono_linux_x86_32.zip",
+    "lastModified": "2023-Dec-21 14:07:02",
+    "size": "52.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-dev1_mono_linux_x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev1/mono/Godot_v4.3-dev1_mono_linux_x86_64.zip",
+    "lastModified": "2023-Dec-21 14:06:50",
+    "size": "52.7M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-dev1_mono_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev1/mono/Godot_v4.3-dev1_mono_macos.universal.zip",
+    "lastModified": "2023-Dec-21 14:08:12",
+    "size": "100.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-dev1_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev1/mono/Godot_v4.3-dev1_mono_win32.zip",
+    "lastModified": "2023-Dec-21 14:07:50",
+    "size": "56.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-dev1_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev1/mono/Godot_v4.3-dev1_mono_win64.zip",
+    "lastModified": "2023-Dec-21 14:07:37",
+    "size": "56.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev1/mono/SHA512-SUMS.txt",
+    "lastModified": "2023-Dec-21 14:11:37",
+    "size": "1.4K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-lib.4.3.dev1.mono.template_release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev1/mono/godot-lib.4.3.dev1.mono.template_release.aar",
+    "lastModified": "2023-Dec-21 14:08:30",
+    "size": "76.7M",
+    "type": "application/octet-stream"
+  }
+]
