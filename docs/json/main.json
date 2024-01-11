@@ -467,5 +467,7 @@
   "4.2.1-rc1": "https://drusin.github.io/gd-dl-json-wrapper/json/4.2.1-rc1.json",
   "4.2.1-rc1-mono": "https://drusin.github.io/gd-dl-json-wrapper/json/4.2.1-rc1-mono.json",
   "4.3-dev1": "https://drusin.github.io/gd-dl-json-wrapper/json/4.3-dev1.json",
-  "4.3-dev1-mono": "https://drusin.github.io/gd-dl-json-wrapper/json/4.3-dev1-mono.json"
+  "4.3-dev1-mono": "https://drusin.github.io/gd-dl-json-wrapper/json/4.3-dev1-mono.json",
+  "4.3-dev2": "https://drusin.github.io/gd-dl-json-wrapper/json/4.3-dev2.json",
+  "4.3-dev2-mono": "https://drusin.github.io/gd-dl-json-wrapper/json/4.3-dev2-mono.json"
 }
