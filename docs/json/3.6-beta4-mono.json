@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Godot_v3.6-beta4_mono_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta4/mono/Godot_v3.6-beta4_mono_export_templates.tpz",
+    "lastModified": "2024-Jan-24 13:11:24",
+    "size": "0.0K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v3.6-beta4_mono_linux_headless_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta4/mono/Godot_v3.6-beta4_mono_linux_headless_64.zip",
+    "lastModified": "2024-Jan-24 13:07:55",
+    "size": "61.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.6-beta4_mono_linux_server_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta4/mono/Godot_v3.6-beta4_mono_linux_server_64.zip",
+    "lastModified": "2024-Jan-24 13:07:59",
+    "size": "17.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.6-beta4_mono_osx.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta4/mono/Godot_v3.6-beta4_mono_osx.universal.zip",
+    "lastModified": "2024-Jan-24 13:07:41",
+    "size": "86.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.6-beta4_mono_win32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta4/mono/Godot_v3.6-beta4_mono_win32.zip",
+    "lastModified": "2024-Jan-24 13:07:22",
+    "size": "54.5M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.6-beta4_mono_win64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta4/mono/Godot_v3.6-beta4_mono_win64.zip",
+    "lastModified": "2024-Jan-24 13:07:09",
+    "size": "59.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.6-beta4_mono_x11_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta4/mono/Godot_v3.6-beta4_mono_x11_32.zip",
+    "lastModified": "2024-Jan-24 13:06:56",
+    "size": "59.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v3.6-beta4_mono_x11_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta4/mono/Godot_v3.6-beta4_mono_x11_64.zip",
+    "lastModified": "2024-Jan-24 13:06:41",
+    "size": "64.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "README.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta4/mono/README.txt",
+    "lastModified": "2024-Jan-24 13:11:07",
+    "size": "0.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta4/mono/SHA512-SUMS.txt",
+    "lastModified": "2024-Jan-24 13:11:06",
+    "size": "1.4K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-lib.3.6.beta4.mono.release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.6/beta4/mono/godot-lib.3.6.beta4.mono.release.aar",
+    "lastModified": "2024-Jan-24 13:08:13",
+    "size": "57.0M",
+    "type": "application/octet-stream"
+  }
+]
