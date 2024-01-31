@@ -1,5 +1,19 @@
 [
   {
+    "name": "Godot_v3.5.3-stable_changelog_authors.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.3/mono/Godot_v3.5.3-stable_changelog_authors.txt",
+    "lastModified": "2024-Jan-30 15:05:49",
+    "size": "6.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "Godot_v3.5.3-stable_changelog_chrono.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/3.5.3/mono/Godot_v3.5.3-stable_changelog_chrono.txt",
+    "lastModified": "2024-Jan-30 15:05:49",
+    "size": "7.6K",
+    "type": "text/plain"
+  },
+  {
     "name": "Godot_v3.5.3-stable_mono_export_templates.tpz",
     "url": "https://downloads.tuxfamily.org/godotengine/3.5.3/mono/Godot_v3.5.3-stable_mono_export_templates.tpz",
     "lastModified": "2023-Sep-25 09:33:50",
