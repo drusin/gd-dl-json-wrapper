@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Godot_v4.3-dev4_android_editor.aab",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/Godot_v4.3-dev4_android_editor.aab",
+    "lastModified": "2024-Feb-29 12:05:27",
+    "size": "353.5M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.3-dev4_android_editor.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/Godot_v4.3-dev4_android_editor.apk",
+    "lastModified": "2024-Feb-29 12:04:08",
+    "size": "177.6M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "Godot_v4.3-dev4_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/Godot_v4.3-dev4_export_templates.tpz",
+    "lastModified": "2024-Feb-29 12:08:54",
+    "size": "918.5M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.3-dev4_linux.arm32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/Godot_v4.3-dev4_linux.arm32.zip",
+    "lastModified": "2024-Feb-29 12:02:21",
+    "size": "41.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-dev4_linux.arm64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/Godot_v4.3-dev4_linux.arm64.zip",
+    "lastModified": "2024-Feb-29 12:02:11",
+    "size": "44.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-dev4_linux.x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/Godot_v4.3-dev4_linux.x86_32.zip",
+    "lastModified": "2024-Feb-29 12:02:01",
+    "size": "44.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-dev4_linux.x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/Godot_v4.3-dev4_linux.x86_64.zip",
+    "lastModified": "2024-Feb-29 12:01:51",
+    "size": "44.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-dev4_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/Godot_v4.3-dev4_macos.universal.zip",
+    "lastModified": "2024-Feb-29 12:03:05",
+    "size": "92.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-dev4_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/Godot_v4.3-dev4_web_editor.zip",
+    "lastModified": "2024-Feb-29 12:03:11",
+    "size": "27.3M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-dev4_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/Godot_v4.3-dev4_win32.exe.zip",
+    "lastModified": "2024-Feb-29 12:02:45",
+    "size": "51.4M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-dev4_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/Godot_v4.3-dev4_win64.exe.zip",
+    "lastModified": "2024-Feb-29 12:02:33",
+    "size": "49.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/SHA512-SUMS.txt",
+    "lastModified": "2024-Feb-29 12:08:54",
+    "size": "2.2K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-4.3-dev4.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/godot-4.3-dev4.tar.xz",
+    "lastModified": "2024-Feb-29 12:01:41",
+    "size": "26.2M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-4.3-dev4.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/godot-4.3-dev4.tar.xz.sha256",
+    "lastModified": "2024-Feb-29 12:01:41",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.4.3.dev4.template_release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/dev4/godot-lib.4.3.dev4.template_release.aar",
+    "lastModified": "2024-Feb-29 12:03:29",
+    "size": "78.6M",
+    "type": "application/octet-stream"
+  }
+]
