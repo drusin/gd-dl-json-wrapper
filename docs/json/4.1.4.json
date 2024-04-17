@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Godot_v4.1.4-stable_android_editor.aab",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.4/Godot_v4.1.4-stable_android_editor.aab",
+    "lastModified": "2024-Apr-17 14:19:49",
+    "size": "0.0K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.1.4-stable_android_editor.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.4/Godot_v4.1.4-stable_android_editor.apk",
+    "lastModified": "2024-Apr-17 14:23:44",
+    "size": "65.4M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "Godot_v4.1.4-stable_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.4/Godot_v4.1.4-stable_export_templates.tpz",
+    "lastModified": "2024-Apr-17 14:23:44",
+    "size": "0.0K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.1.4-stable_linux.x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.4/Godot_v4.1.4-stable_linux.x86_32.zip",
+    "lastModified": "2024-Apr-17 14:24:31",
+    "size": "9.6M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.1.4-stable_linux.x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.4/Godot_v4.1.4-stable_linux.x86_64.zip",
+    "lastModified": "2024-Apr-17 14:24:08",
+    "size": "0.0K",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.1.4-stable_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.4/Godot_v4.1.4-stable_macos.universal.zip",
+    "lastModified": "2024-Apr-17 14:24:31",
+    "size": "0.0K",
+    "type": "application/zip"
+  },
+  {
+    "name": "godot-4.1.4-stable.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.4/godot-4.1.4-stable.tar.xz",
+    "lastModified": "2024-Apr-17 14:18:33",
+    "size": "29.6M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-4.1.4-stable.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.4/godot-4.1.4-stable.tar.xz.sha256",
+    "lastModified": "2024-Apr-17 14:18:33",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.4.1.4.stable.template_release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.1.4/godot-lib.4.1.4.stable.template_release.aar",
+    "lastModified": "2024-Apr-17 14:18:52",
+    "size": "73.2M",
+    "type": "application/octet-stream"
+  }
+]
