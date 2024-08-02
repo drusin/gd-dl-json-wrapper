@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Godot_v4.3-rc2_android_editor.aab",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/Godot_v4.3-rc2_android_editor.aab",
+    "lastModified": "2024-Aug-01 19:57:24",
+    "size": "191.5M",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.3-rc2_android_editor.apk",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/Godot_v4.3-rc2_android_editor.apk",
+    "lastModified": "2024-Aug-01 19:56:40",
+    "size": "191.7M",
+    "type": "application/vnd.android.package-archive"
+  },
+  {
+    "name": "Godot_v4.3-rc2_export_templates.tpz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/Godot_v4.3-rc2_export_templates.tpz",
+    "lastModified": "2024-Aug-01 20:01:20",
+    "size": "0.9G",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "Godot_v4.3-rc2_linux.arm32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/Godot_v4.3-rc2_linux.arm32.zip",
+    "lastModified": "2024-Aug-01 19:54:31",
+    "size": "43.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-rc2_linux.arm64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/Godot_v4.3-rc2_linux.arm64.zip",
+    "lastModified": "2024-Aug-01 19:54:21",
+    "size": "46.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-rc2_linux.x86_32.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/Godot_v4.3-rc2_linux.x86_32.zip",
+    "lastModified": "2024-Aug-01 19:54:11",
+    "size": "47.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-rc2_linux.x86_64.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/Godot_v4.3-rc2_linux.x86_64.zip",
+    "lastModified": "2024-Aug-01 19:53:59",
+    "size": "47.0M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-rc2_macos.universal.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/Godot_v4.3-rc2_macos.universal.zip",
+    "lastModified": "2024-Aug-01 19:55:30",
+    "size": "98.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-rc2_web_editor.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/Godot_v4.3-rc2_web_editor.zip",
+    "lastModified": "2024-Aug-01 19:55:37",
+    "size": "27.9M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-rc2_win32.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/Godot_v4.3-rc2_win32.exe.zip",
+    "lastModified": "2024-Aug-01 19:54:56",
+    "size": "55.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-rc2_win64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/Godot_v4.3-rc2_win64.exe.zip",
+    "lastModified": "2024-Aug-01 19:54:43",
+    "size": "53.8M",
+    "type": "application/zip"
+  },
+  {
+    "name": "Godot_v4.3-rc2_windows_arm64.exe.zip",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/Godot_v4.3-rc2_windows_arm64.exe.zip",
+    "lastModified": "2024-Aug-01 19:55:08",
+    "size": "50.1M",
+    "type": "application/zip"
+  },
+  {
+    "name": "SHA512-SUMS.txt",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/SHA512-SUMS.txt",
+    "lastModified": "2024-Aug-01 20:01:20",
+    "size": "2.3K",
+    "type": "text/plain"
+  },
+  {
+    "name": "godot-4.3-rc2.tar.xz",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/godot-4.3-rc2.tar.xz",
+    "lastModified": "2024-Aug-01 19:53:48",
+    "size": "27.4M",
+    "type": "application/x-xz"
+  },
+  {
+    "name": "godot-4.3-rc2.tar.xz.sha256",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/godot-4.3-rc2.tar.xz.sha256",
+    "lastModified": "2024-Aug-01 19:53:48",
+    "size": "0.1K",
+    "type": "application/octet-stream"
+  },
+  {
+    "name": "godot-lib.4.3.rc2.template_release.aar",
+    "url": "https://downloads.tuxfamily.org/godotengine/4.3/rc2/godot-lib.4.3.rc2.template_release.aar",
+    "lastModified": "2024-Aug-01 19:55:56",
+    "size": "86.4M",
+    "type": "application/octet-stream"
+  }
+]
